@@ -1,6 +1,6 @@
 # ** Website Berita **
 
-## ** Kelompok 5 **
+## **Kelompok 5 **
 ** Project Manager : **
 - Gabriel Ido Arthur Nababan (231402115)
 ** Anggota : **
