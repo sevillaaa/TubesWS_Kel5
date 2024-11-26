@@ -44,7 +44,7 @@
   /*========== Font weight ==========*/
   --font-medium: 500;
   --font-semi-bold: 600;
-  --font-black: 900;
+  --font-black: 850;
 
   /*========== Margenes Bottom ==========*/
   --mb-0-25: .25rem;
@@ -172,6 +172,7 @@ button{
 .nav__logo{
   display: flex;
   width: 100px;
+  height: auto;
   align-items: center;
   column-gap: .5rem;
   font-weight: var(--font-medium);
@@ -185,7 +186,7 @@ button{
 } */
 
 .nav__logo-img{
-  width: 1.25rem;
+  height: 1.5rem;
 }
 
 .nav__menu {
@@ -266,6 +267,8 @@ button{
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-self: center;
+  justify-content: center;
   row-gap: 1.5rem;
   margin-left: 100px;
 }
@@ -322,6 +325,23 @@ button{
 /* .swiper__pagination{
   margin-top: 500px;
 } */
+
+.home__container {
+  height: calc(100vh - var(--header-height));
+  align-content: center;
+}
+
+.bd-container {
+  max-width: 960px;
+  width: calc(100% - 2rem);
+  margin-left: var(--mb-2);
+  margin-right: var(--mb-2);
+}
+
+.bd-grid {
+  display: grid;
+  gap: 1.5rem;
+}
 
 .home__content{
   display: flex;
@@ -395,9 +415,9 @@ button{
 
 .home__subtitle{
   font-size: var(--h3-font-size);
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
+  color: var(--title-color);
   margin-bottom: var(--mb-1);
-  padding-top: 200px;
 }
 
 .home__title{
@@ -1041,6 +1061,7 @@ button{
 
 .footer__description{
   margin-bottom: var(--mb-2-5);
+  color: var(--detail-color);
 }
 
 .footer__social{
