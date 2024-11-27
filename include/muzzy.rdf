@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:gold="http://purl.org/linguistics/gold/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+    xmlns:muzzy="https://example.org/schema/muzzy">
+
+    <!-- All Song in Muzzy -->
+    <muzzy:song rdf:about="http://dbpedia.org/resource/Still_Into_You">
+        <rdfs:label>Still Into You</rdfs:label>
+        <muzzy:abstract>Still Into You is a song by American rock band Paramore. 
+            It was released on March 14, 2013, as the second single from their self-titled fourth studio album, Paramore. 
+            Recorded in 2012 in Los Angeles, California, Still Into You is a departure from the sound of
+            their previous single, Now, and incorporates a lighter pop rock sound, while being described 
+            as sweet and sugary. The song received acclaim from music critics, who have praised
+            the song and Hayley Williams vocals as catchy and strong and effective, as well as deeming it as 
+            one of the songs of the summer of 2013. It is among their most commercially 
+            successful singles in the United States, becoming a top-ten hit on the Mainstream Top 40, ranking at 
+            number eight on Billboard, Hot Rock Songs, and receiving double-platinum certification in the 
+            United States.</muzzy:abstract>
+        <muzzy:artist>Paramore</muzzy:artist>
+        <muzzy:genre>Alternative Rock, Pop Rock, Power Pop</muzzy:genre>
+        <muzzy:recordLabel>Fueled by Ramen</muzzy:recordLabel>
+        <muzzy:producer>Justin Meldal Johnsen</muzzy:producer>
+        <muzzy:released>2013-03-14</muzzy:released>
+        <muzzy:writer>Taylor York, Hayley Williams</muzzy:writer>
+        <muzzy:album>Paramore (album)</muzzy:album>
+        <muzzy:thumbnail>https://upload.wikimedia.org/wikipedia/en/b/be/Cover_paramore%27s_song_still_into_you.jpg</muzzy:thumbnail>
+    </muzzy:song>
+
+    <muzzy:song rdf:about="http://dbpedia.org/resource/Don't_Panic_(Coldplay_song)">
+        <rdfs:label>Don't Panic</rdfs:label>
+        <muzzy:abstract>Don't Panic is a song by the British rock band Coldplay. 
+            Originally titled Panic, the earliest known version of the song existed in 1998, performed 
+            live during the bands first gig in the same year. It had a different melody, and was included in 
+            the bands third EP, The Blue Room. The track was reproduced by Coldplay and British producer Ken Nelson 
+            for the bands debut album, Parachutes. Following their successful releases in 2000, Coldplay and their 
+            record label Parlophone thought there was enough exposure of the album in the United Kingdom. Thus, the 
+            decision of releasing a fourth single would be for regions that had not been overdosed by the hit singles 
+            Yellow and Trouble. They settled on Don't Panic, which at the time 
+            was an audience favourite. It was released in some European regions, and the United Kingdom only received 
+            a promo edition. The critical reception of the song was generally positive.</muzzy:abstract>
+        <muzzy:artist>Coldplay</muzzy:artist>
+        <muzzy:genre>Post-Britpop, Soft Rock</muzzy:genre>
+        <muzzy:recordLabel>Parlophone</muzzy:recordLabel>
+        <muzzy:producer>Ken Nelson, Chris Allison, Coldplay</muzzy:producer>
+        <muzzy:released>2001-03-19</muzzy:released>
+        <muzzy:writer>Chris Martin, Jonny Buckland, Guy Berryman, Will Champion</muzzy:writer>
+        <muzzy:album>Parachutes (Coldplay Album)</muzzy:album>
+        <muzzy:thumbnail>https://upload.wikimedia.org/wikipedia/en/2/21/DontPanic1.jpg</muzzy:thumbnail>
+    </muzzy:song>
+
+    <muzzy:song rdf:about="http://dbpedia.org/resource/Electric_Love_(song)">
+        <rdfs:label>Electric Love</rdfs:label>
+        <muzzy:abstract>Electric Love is the debut single by American singer and songwriter Børns. 
+            The song was originally recorded by Børns for his second extended play, Candy, where it 
+            appears as the first track, and later appeared as the third track on his debut studio album, 
+            Dopamine. On February 26, 2017, the song was certified Platinum by the Recording Industry 
+            Association of America.</muzzy:abstract>
+        <muzzy:artist>Borns</muzzy:artist>
+        <muzzy:genre>Glam Rock</muzzy:genre>
+        <muzzy:recordLabel>Geffen, Interscope</muzzy:recordLabel>
+        <muzzy:producer>Tommy English</muzzy:producer>
+        <muzzy:released>2014-11-10</muzzy:released>
+        <muzzy:writer>Garrett Borns, Tommy English, Nick Long, Josh Moran</muzzy:writer>
+        <muzzy:album>Dopamine (Børns Album)</muzzy:album>
+        <muzzy:thumbnail>https://upload.wikimedia.org/wikipedia/en/a/a8/Electric_Love_single_cover.png</muzzy:thumbnail>
+    </muzzy:song>
+
+    <muzzy:song rdf:about="http://dbpedia.org/resource/Paradise_(Coldplay_song)">
+        <rdfs:label>Paradise</rdfs:label>
+        <muzzy:abstract>Paradise is a song by the British rock band Coldplay, 
+            released on 12 September 2011 as the second single from their fifth album, Mylo Xyloto. 
+            The song received its radio debut at 7:50 a.m. on The Chris Moyles Show (BBC Radio 1) on 12 September 2011. 
+            According to Coldplay's official website, the single was not initially chart eligible in the United Kingdom, 
+            because it was available on iTunes as an instant grat (immediate download) when pre-ordering the album. 
+            Following the release of the album on 30 October 2011, the song became chart eligible in the UK and entered the 
+            UK Singles Chart at number 14, before taking the number 1 spot on its tenth week, becoming the band's second 
+            number-one single after Viva la Vida in 2008. The song was met with positive reviews, and was the best 
+            selling rock song of 2011 in the United Kingdom, selling 410,000 copies. On 30 November, the song was nominated 
+            for a Grammy Award, in the category Best Pop Duo/Group Performance. On 12 February 2012, Coldplay performed 
+            Paradise live at the RE, along with Princess of China. At the 2012 MTV Video Music Awards 
+            on 6 September, the song won the award for Best Rock Video. Following the 2012 Stanley Cup playoffs on CBC, 
+            the song was featured in a yearly finale montage on CBC recapping the Stanley Cup Playoffs as well as British 
+            and American television advertisements and trailers for the film Life of Pi, which was nominated for eleven 
+            Academy Awards.</muzzy:abstract>
+        <muzzy:artist>Coldplay</muzzy:artist>
+        <muzzy:genre>R &amp; B, Pop Rock, Alternative Rock, Electronic Rock</muzzy:genre>
+        <muzzy:recordLabel>Parlophone, Capitol</muzzy:recordLabel>
+        <muzzy:producer>Daniel Green, Markus Dravs, Brian Eno, Rik Simpson</muzzy:producer>
+        <muzzy:released>2011-09-12</muzzy:released>
+        <muzzy:writer>Guy Berryman, Will Champion, Jonny Buckland, Brian Eno, Chris Martin</muzzy:writer>
+        <muzzy:album>Mylo Xyloto</muzzy:album>
+        <muzzy:thumbnail>https://upload.wikimedia.org/wikipedia/en/2/22/Coldplay_-_Paradise.JPG</muzzy:thumbnail>
+    </muzzy:song>
+
+    <muzzy:song rdf:about="http://dbpedia.org/resource/Beautiful_Mistakes">
+        <rdfs:label>Beautiful Mistakes</rdfs:label>
+        <muzzy:abstract>Beautiful Mistakes is a song by American band Maroon 5 featuring American 
+            rapper Megan Thee Stallion. It was released through 222 and Interscope Records on March 3, 2021, 
+            as the third single from the band's seventh studio album, Jordi. The song was written by the 
+            band's lead singer Adam Levine, Megan Thee Stallion, Jacob Kasher Hindlin, Joe Kirkland, and 
+            producers Andrew Goldstein Blackbear.</muzzy:abstract>
+        <muzzy:artist>Maroon 5</muzzy:artist>
+        <muzzy:genre>Pop Rock</muzzy:genre>
+        <muzzy:recordLabel>222 Interscope</muzzy:recordLabel>
+        <muzzy:producer>Andrew Goldstein, Blackbear</muzzy:producer>
+        <muzzy:released>2021-03-03</muzzy:released>
+        <muzzy:writer>Adam Levine, Megan Pete, Jacob Kasher Hindlin, Joseph Kirkland, Andrew Goldstein, Matthew Musto</muzzy:writer>
+        <muzzy:album>Jordi (Album)</muzzy:album>
+        <muzzy:thumbnail>https://upload.wikimedia.org/wikipedia/en/0/09/Maroon_5_and_Megan_Thee_Stallion_-_Beautiful_Mistakes.png</muzzy:thumbnail>
+    </muzzy:song>
+
+    <muzzy:song rdf:about="http://dbpedia.org/resource/Night_Changes">
+        <rdfs:label>Night Changes</rdfs:label>
+        <muzzy:abstract>Night Changes is a song recorded by English-Irish boy band One Direction. 
+            It was written by the band alongside Jamie Scott, Julian Bunetta and John Ryan, while the production 
+            was handled by Bunetta and Ryan. The song was released on 14 November 2014 as the second and final 
+            single from their fourth studio album Four. It also marked the last single with member Zayn Malik. 
+            A moderate commercial success, the track is one of the band's most critically acclaimed, receiving 
+            praise for contemplating the fleeting nature of life with depth and maturity.</muzzy:abstract>
+        <muzzy:artist>One Direction</muzzy:artist>
+        <muzzy:genre>Folk Pop</muzzy:genre>
+        <muzzy:recordLabel>Syco Music</muzzy:recordLabel>
+        <muzzy:producer>Bunetta, Ryan, Jamie Scott</muzzy:producer>
+        <muzzy:released>2014-11-14</muzzy:released>
+        <muzzy:writer>John Ryan, Harry Styles, Louis Tomlinson, Niall Horan, Zayn Malik, Liam Payne, Jamie Scott, Julian Bunetta</muzzy:writer>
+        <muzzy:album>Four (One Direction Album)</muzzy:album>
+        <muzzy:thumbnail>https://upload.wikimedia.org/wikipedia/en/d/d1/One_Direction_-_Night_Changes_Single_Cover.png</muzzy:thumbnail>
+    </muzzy:song>
+
+    <muzzy:song rdf:about="http://dbpedia.org/resource/Gangnam_Style">
+        <rdfs:label>Gangnam Style</rdfs:label>
+        <muzzy:abstract>Gangnam Style (Korean: 강남스타일, IPA: [kaŋ.nam sɯ.tʰa.il]) is a K-pop song by South Korean 
+            rapper Psy, released on July 15, 2012, by YG Entertainment as the lead single of his sixth studio album, Psy 
+            6 (Six Rules), Part 1 (Ssai Yukgap Part 1). The term Gangnam Style is a Korean neologism that 
+            refers to a lifestyle associated with the Gangnam District of Seoul. Gangnam Style debuted at 
+            number one on South Korea's Gaon Chart, receiving mixed to positive reviews, with praise for its catchy 
+            beat and Psy's amusing dancing and during live performances in various locations around the world in its 
+            music video. The song and its music video went viral in August 2012 and have influenced popular culture 
+            worldwide. In the United States, Gangnam Style peaked at number two on Billboard Hot 100. By the 
+            end of 2012, Gangnam Style had topped the music charts of more than 30 countries including 
+            Australia, Canada, France, Germany, Italy, Russia, Spain, and the United Kingdom. Psy's dance in the 
+            music video itself became a cultural phenomenon. In September 2012, Gangnam Style was recognized 
+            by Guinness World Records as the first YouTube video to hit 1 billion views. It subsequently won Best Video 
+            at the MTV Europe Music Awards held that year. On December 21, 2012, Gangnam Style became the 
+            first YouTube video to reach 1 billion views. As of July 15, 2022, the songs music video has more than 
+            4.48 billion views, and was the most viewed video on YouTube from November 24, 2012, when it surpassed the 
+            music video for Baby by Justin Bieber featuring Ludacris, to July 10, 2017, when it was itself 
+            surpassed by the music video for See You Again by Wiz Khalifa featuring Charlie Puth. Its dance 
+            was attempted by political leaders such as British Prime Minister David Cameron and United Nations Secretary-
+            General Ban Ki-moon, who hailed it as a force for world peace. On May 7, 2013, at a bilateral meeting with 
+            South Korea's President Park Geun-hye at the White House, US President Barack Obama cited the success 
+            of Gangnam Style as an example of how people around the world are being swept up by the Korean wave of culture.</muzzy:abstract>
+        <muzzy:artist>PSY</muzzy:artist>
+        <muzzy:genre>EDM, K-Pop, Dance-Pop</muzzy:genre>
+        <muzzy:recordLabel>YG, School Boy, Universal Republic</muzzy:recordLabel>
+        <muzzy:producer>Yoo Gun-hyung, Park Jae-sang, Yang Hyun-suk</muzzy:producer>
+        <muzzy:released>2012-07-15</muzzy:released>
+        <muzzy:writer>Yoo Gun-hyung, Park Jae-sang, PSY</muzzy:writer>
+        <muzzy:album>Psy 6 (Six Rules)</muzzy:album>
+        <muzzy:thumbnail>https://upload.wikimedia.org/wikipedia/en/a/ad/Gangnam_Style_Official_Cover.png</muzzy:thumbnail>
+    </muzzy:song>
+
+    <muzzy:song rdf:about="http://dbpedia.org/resource/Smooth_Criminal">
+        <rdfs:label>Smooth Criminal</rdfs:label>
+        <muzzy:abstract>Smooth Criminal is a song by the American singer Michael Jackson, released on November 14, 1988, 
+            as the seventh single from his seventh album, Bad (1987). It was written by Jackson and produced by 
+            Jackson and Quincy Jones. The lyrics address a woman who has been attacked in her apartment by a 
+            smooth criminal. The refrain Annie, are you OK? was inspired by Resusci Anne, 
+            a dummy used in CPR training. The music video for Smooth Criminal, which premiered on MTV on 
+            October 13, 1988, is the centerpiece of the 1988 film Moonwalker. The 1930s setting and Jackson's 
+            white suit and fedora pay tribute to the Fred Astaire musical comedy film *The Band Wagon*. In the video, 
+            Jackson and the dancers perform an apparently physically impossible anti-gravity lean. 
+            Smooth Criminal reached number seven on the Billboard Hot 100, becoming the sixth top-10 single 
+            from Bad. It reached number two on the Billboard Hot Black Singles chart. It was certified double platinum 
+            by the Recording Industry Association of America (RIAA). The song reached number one in Belgium, Iceland, 
+            the Netherlands, and Spain. Retrospective reviews have described it as one of Jackson's best songs. 
+            Rolling Stone wrote that it was his best blend of R &amp; B groove and rock edginess, and a turning 
+            point in his shift toward darker, harder-edged material. It has appeared on numerous greatest hits 
+            albums and was performed on all of Jackson's solo tours. Smooth Criminal was re-released in 
+            2006 as a single as a part of Jackson's Visionary: The Video Singles boxset.</muzzy:abstract>
+        <muzzy:artist>Michael Jackson, Alien Ant Farm</muzzy:artist>
+        <muzzy:genre>Metal, Pop, R &amp; B</muzzy:genre>
+        <muzzy:recordLabel>Epic Records, DreamWorks Records</muzzy:recordLabel>
+        <muzzy:producer>Quincy Jones, Michael Jackson, Jay Baumgardner</muzzy:producer>
+        <muzzy:released>1988-11-14</muzzy:released>
+        <muzzy:writer>Michael Jackson</muzzy:writer>
+        <muzzy:album>Bad (Album)</muzzy:album>
+        <muzzy:thumbnail>https://upload.wikimedia.org/wikipedia/en/3/33/Smooth_Criminal.jpg</muzzy:thumbnail>
+    </muzzy:song>
+
+    <muzzy:song rdf:about="http://dbpedia.org/resource/Bad_Romance">
+        <rdfs:label>Bad Romance</rdfs:label>
+        <muzzy:abstract>"Bad Romance" is a song by American singer Lady Gaga from her third extended play (EP), 
+            The Fame Monster (2009). It features electropop and dance-pop influences, with German house and techno 
+            inspirations. The song explores themes of unhealthy romantic relationships and paranoia, receiving 
+            widespread acclaim for its beat, hook, and chorus. "Bad Romance" topped the charts in more than 20 countries, 
+            sold over 12 million copies globally, and became one of the best-selling singles of all time. Its iconic 
+            music video, directed by Francis Lawrence, won numerous awards, including a Grammy for Best Music Video.</muzzy:abstract>
+        <muzzy:artist>Lady Gaga</muzzy:artist>
+        <muzzy:genre>Electropop, Dance-pop</muzzy:genre>
+        <muzzy:recordLabel>Streamline, Kon Live, Cherrytree, Interscope</muzzy:recordLabel>
+        <muzzy:producer>RedOne, Lady Gaga</muzzy:producer>
+        <muzzy:released>2009-10-19</muzzy:released>
+        <muzzy:writer>Stefani Germanotta, Nadir Khayat</muzzy:writer>
+        <muzzy:album>The Fame (Album)</muzzy:album>
+        <muzzy:thumbnail>https://upload.wikimedia.org/wikipedia/en/c/cc/Lady_Gaga_-_Bad_Romance.png</muzzy:thumbnail>
+    </muzzy:song>
+
+    <muzzy:song rdf:about="http://dbpedia.org/resource/Heartbreak_Anniversary">
+        <rdfs:label>Heartbreak Anniversary</rdfs:label>
+        <muzzy:abstract>"Heartbreak Anniversary" is a song by American singer-songwriter Giveon. It was released on 
+            February 21, 2020, as the second single from his debut EP, Take Time (2020). Written from the perspective of a 
+            friend of Giveon's, the downtempo piano ballad finds him singing about the date of a breakup, reminiscing and 
+            grieving about a love gone wrong. The song became a sleeper hit, garnering chart success in early 2021, with a 
+            music video subsequently being released, and the song was sent to US radio, in March 2021. It reached number one 
+            Malaysia and Singapore.</muzzy:abstract>
+        <muzzy:artist>Giveon</muzzy:artist>
+        <muzzy:genre>Electro, R &amp; B, Soul Music</muzzy:genre>
+        <muzzy:recordLabel>Epic, Not So Fast</muzzy:recordLabel>
+        <muzzy:producer>Sevn Thomas</muzzy:producer>
+        <muzzy:released>2020-02-21</muzzy:released>
+        <muzzy:writer>Giveon Evans, Sevn Thomas, Maneesh Bidaye, Varren Wade</muzzy:writer>
+        <muzzy:album>Take Time (Giveon EP)</muzzy:album>
+        <muzzy:thumbnail>https://upload.wikimedia.org/wikipedia/en/2/2a/Giveon_-_Heartbreak_Anniversary.png</muzzy:thumbnail>
+    </muzzy:song>
+
+    <muzzy:song rdf:about="http://dbpedia.org/resource/Fly_Me_to_the_Moon">
+        <rdfs:label>Fly Me to the Moon</rdfs:label>
+        <muzzy:abstract>"Fly Me to the Moon", originally titled "In Other Words", is a song written in 1954 by Bart 
+            Howard. The first recording of the song was made in 1954 by Kaye Ballard. Frank Sinatra's 1964 version was 
+            closely associated with the Apollo missions to the Moon. In 1999, the Songwriters Hall of Fame honored "Fly 
+            Me to the Moon" by inducting it as a "Towering Song".</muzzy:abstract>
+        <muzzy:artist>Kaye Ballard</muzzy:artist>
+        <muzzy:genre>Jazz</muzzy:genre>
+        <muzzy:recordLabel>Decca Records</muzzy:recordLabel>
+        <muzzy:released>April 1954</muzzy:released>
+        <muzzy:writer>Bart_Howard</muzzy:writer>
+        <muzzy:thumbnail>https://upload.wikimedia.org/wikipedia/commons/b/bd/Kaye_Ballard_In_Other_Words_Decca_Records_Inc._Catalog_Number_9_29114_Photographed_15_April_2014.JPG</muzzy:thumbnail>
+    </muzzy:song>
+
+    <muzzy:song rdf:about="http://dbpedia.org/resource/Sanctuary_(Joji_song)">
+        <rdfs:label>Sanctuary</rdfs:label>
+        <muzzy:abstract>"Sanctuary" is a song by Japanese singer-songwriter Joji. It was released on 14 June 2019 through 
+            88rising Records and 12 Tone Music. The track was written by Joji, Daniel Wilson, Justin Raisen and Luke Niccoli, 
+            Raisen handling production. Eoin Glaister directed the song's accompanying music video.</muzzy:abstract>
+        <muzzy:artist>Joji</muzzy:artist>
+        <muzzy:genre>Lo-fi Music, R &amp; B, Electropop, Synth-Pop, Soul Music</muzzy:genre>
+        <muzzy:recordLabel>88rising, 12 Tone Music</muzzy:recordLabel>
+        <muzzy:producer>Justin Raisen</muzzy:producer>
+        <muzzy:released>2019-06-14</muzzy:released>
+        <muzzy:writer>Joji, Daniel Wilson, Justin Raisen</muzzy:writer>
+        <muzzy:album>Nectar (Joji Album)</muzzy:album>
+        <muzzy:thumbnail>https://upload.wikimedia.org/wikipedia/en/2/2e/Joji_-_Sanctuary.png</muzzy:thumbnail>
+    </muzzy:song>
+
+    <muzzy:song rdf:about="http://dbpedia.org/resource/Beautiful_Girls_(Sean_Kingston_song)">
+        <rdfs:label>Beautiful Girls</rdfs:label>
+        <muzzy:abstract>Beautiful Girls is a song by Jamaican-American reggae fusion artist Sean Kingston. 
+            It was released on May 26, 2007, as the debut single from his self-titled album, Sean Kingston. 
+            The song interpolates the bassline from Ben E. King's classic hit Stand by Me and is recognized 
+            for its catchy melody and bittersweet lyrics. Its narrative explores themes of heartbreak and 
+            romantic struggles, presented with a playful and summery sound. The song achieved widespread 
+            commercial success, reaching number one in numerous countries, including the United States, 
+            Canada, and the United Kingdom. It has been certified multi-platinum and remains one of Sean 
+            Kingston's most iconic tracks.</muzzy:abstract>
+        <muzzy:artist>Sean Kingston</muzzy:artist>
+        <muzzy:genre>Reggae Fusion</muzzy:genre>
+        <muzzy:recordLabel>Epic Records</muzzy:recordLabel>
+        <muzzy:producer>J.R. Rotem</muzzy:producer>
+        <muzzy:released>2007-05-26</muzzy:released>
+        <muzzy:writer>Ben E. King, Jerry Leiber and Mike Stoller, J.R. Rotem, Sean Kingston</muzzy:writer>
+        <muzzy:album>Sean Kingston (Album)</muzzy:album>
+        <muzzy:thumbnail>https://upload.wikimedia.org/wikipedia/en/f/f6/Sean_Kingston_Beautiful_Girls.jpg</muzzy:thumbnail>
+    </muzzy:song>
+
+    <muzzy:song rdf:about="http://dbpedia.org/resource/Locked_Out_of_Heaven">
+        <rdfs:label>Locked Out of Heaven</rdfs:label>
+        <muzzy:abstract>Locked Out of Heaven is a song by American artist Bruno Mars, 
+            released as the lead single from his second studio album, Unorthodox Jukebox, on October 1, 2012. 
+            Written by Mars, Philip Lawrence, and Ari Levine, the track is a fusion of pop, rock, and reggae influences, 
+            reminiscent of the style of bands like The Police. Its lyrics express the ecstatic emotions of falling in love, 
+            characterized by euphoric melodies and a pulsating rhythm. Critics praised the song for its infectious energy, 
+            retro vibes, and Mars's dynamic vocal performance. Commercially, it became a global hit, topping the Billboard 
+            Hot 100 for six consecutive weeks and charting within the top ten in over 20 countries. Locked Out of Heaven 
+            earned numerous accolades, including Grammy nominations, and solidified Bruno Mars's status as a global pop icon.</muzzy:abstract>
+        <muzzy:artist>Bruno Mars</muzzy:artist>
+        <muzzy:genre>Pop Rock</muzzy:genre>
+        <muzzy:recordLabel>Atlantic Records</muzzy:recordLabel>
+        <muzzy:producer>The Smeezingtons, Emile Haynie, Jeff Bhasker, Mark Ronson</muzzy:producer>
+        <muzzy:released>2012-10-01</muzzy:released>
+        <muzzy:writer>Philip Lawrence</muzzy:writer>
+        <muzzy:album>Unorthodox Jukebox</muzzy:album>
+        <muzzy:thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/a2/ThePolice_2007.jpg</muzzy:thumbnail>
+    </muzzy:song>
+
+     <muzzy:song rdf:about="http://dbpedia.org/resource/Better_Now">
+        <rdfs:label>Better Now</rdfs:label>
+        <muzzy:abstract>Better Now is a song by American rapper and singer Post Malone, 
+            released as part of his critically acclaimed second studio album, Beerbongs Bentleys, on May 1, 2018. 
+            The song reflects on themes of heartbreak and regret, with the narrator addressing a past relationship while grappling 
+            with feelings of loss and personal growth. It features a melodic blend of pop and rap, with a catchy chorus and 
+            introspective verses that showcase Post Malone's distinctive vocal style. Better Now received widespread 
+            critical acclaim for its relatable lyrics and polished production, becoming a fan favorite. It achieved immense 
+            commercial success, charting in the top ten of the Billboard Hot 100 and reaching similar positions in multiple 
+            international charts. The track has been certified multi-platinum, cementing Post Malone's reputation as one of 
+            the most versatile and influential artists of his generation.</muzzy:abstract>
+        <muzzy:artist>Post Malone</muzzy:artist>
+        <muzzy:genre>Pop Rap</muzzy:genre>
+        <muzzy:recordLabel>Republic Records</muzzy:recordLabel>
+        <muzzy:producer>Frank Dukes, Louis Bell</muzzy:producer>
+        <muzzy:released>2018-05-01</muzzy:released>
+        <muzzy:writer> Post Malone, Louis Bell, Frank Dukes, Billy Walsh, Kaan Gunesberk </muzzy:writer>
+        <muzzy:album>Beerbongs &amp; Bentleys</muzzy:album>
+        <muzzy:thumbnail></muzzy:thumbnail>
+    </muzzy:song>
+
+    <muzzy:song rdf:about="http://dbpedia.org/resource/The_Actor_(Michael_Learns_to_Rock_song)">
+        <rdfs:label>The Actor</rdfs:label>
+        <muzzy:abstract>"The Actor" is a ballad by Danish soft rock band Michael Learns to Rock. The song is taken 
+            from their self-titled debut album, which was released in 1991. It reached number one in Norway and topped 
+            Indonesia's airplay charts. The band has played the song regularly during their Asian tours.</muzzy:abstract>
+        <muzzy:artist>Michael Learns to Rock</muzzy:artist>
+        <muzzy:recordLabel>Impact Records</muzzy:recordLabel>
+        <muzzy:producer>Oli Poulsen, Jens Hofman</muzzy:producer>
+        <muzzy:released>1991-11-11</muzzy:released>
+        <muzzy:writer>Jascha Richter</muzzy:writer>
+        <muzzy:album>Michael Learns to Rock (1991 Album)</muzzy:album>
+        <muzzy:thumbnail>https://upload.wikimedia.org/wikipedia/en/9/99/The_Actor_single_cover.jpg</muzzy:thumbnail>
+    </muzzy:song>
+
+    <muzzy:song rdf:about="http://dbpedia.org/resource/Story_of_My_Life_(One_Direction_song)">
+        <rdfs:label>Story of My Life</rdfs:label>
+        <muzzy:abstract>Story of My Life is a song recorded by English-Irish boy band One Direction. 
+            It was released on 28 October 2013 by Syco Music and Columbia Records as the second single from the 
+            groups third studio album, Midnight Memories (2013). Written by band members Niall Horan, Zayn Malik, 
+            Harry Styles, Liam Payne, and Louis Tomlinson, along with Julian Bunetta, Jamie Scott, John Ryan, and 
+            Hanoch Dagan. The lyrics speak of a tumultuous relationship leading to lament and heartbreak.</muzzy:abstract>
+        <muzzy:artist>One Direction</muzzy:artist>
+        <muzzy:genre>Folktronica</muzzy:genre>
+        <muzzy:producer>John Ryan, Julian Bunetta</muzzy:producer>
+        <muzzy:released>2013-10-28</muzzy:released>
+        <muzzy:writer>Zayn Malik, Liam Payne, Jamie Scott, Louis Tomlinson, Niall Horan, Harry Styles, Tiziano Ferro, John Ryan</muzzy:writer>
+        <muzzy:album>Midnight Memories</muzzy:album>
+        <muzzy:thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/One_Direction_-_Story_of_My_Life_%28Official_Single_Cover%29.png/220px-One_Direction_-_Story_of_My_Life_%28Official_Single_Cover%29.png</muzzy:thumbnail>
+    </muzzy:song>
+
+    <muzzy:song rdf:about="http://dbpedia.org/resource/Cruel_Summer_(Taylor_Swift_song)">
+        <rdfs:label>Cruel Summer</rdfs:label>
+        <muzzy:abstract>"Cruel Summer" is a song by American singer-songwriter Taylor Swift, from her seventh studio album, 
+            Lover (2019). Swift wrote the song with St. Vincent and producer Jack Antonoff. "Cruel Summer" combines synth-pop, 
+            industrial pop, and electropop; the production incorporates synthesizers and distorted vocals manipulated by robotic 
+            voice effects. Lyrically, it is about a narrator falling for a summer romance while experiencing intense, painful 
+            events in her personal life.</muzzy:abstract>
+        <muzzy:artist>Taylor Swift</muzzy:artist>
+        <muzzy:genre>Electropop, Industrial Pop, Synth-Pop</muzzy:genre>
+        <muzzy:recordLabel>Republic Records</muzzy:recordLabel>
+        <muzzy:producer> Jack Antonoff, Taylor Swift</muzzy:producer>
+        <muzzy:released>2019-08-23</muzzy:released>
+        <muzzy:writer>Jack Antonoff, Taylor Swift, St. Vincent</muzzy:writer>
+        <muzzy:album>Lover (Album)</muzzy:album>
+        <muzzy:thumbnail>https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Cruel_Summer.png</muzzy:thumbnail>
+    </muzzy:song>
+
+</rdf:RDF>
+        
+    
