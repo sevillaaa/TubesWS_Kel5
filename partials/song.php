@@ -21,7 +21,7 @@
     $result = $sparqlJena->query($query)->current();
 
     // $lyrics = nl2br(htmlspecialchars($result->lyrics));
-    $lyrics = nl2br($result->lyrics);
+    // $lyrics = nl2br($result->lyrics);
 
 ?>
 
@@ -35,7 +35,7 @@
     <div>
     <div class="music__container">
         <div class="player-img">
-            <img src="./assets/img/mltr.jpg" class="active" id="cover">
+            <img src="<?= $result->thumbnail ?>" class="active" id="cover">
         </div>
 
         <h2 id="" class="music__h2"><?= $result->name ?></h2>
@@ -91,7 +91,7 @@
     </div>
     
     <h2 class="song__lyrics">
-        <?= $result->lyrics ?>
+    <?= nl2br(htmlspecialchars($result->lyrics)) ?> <?= $result->lyrics ?>
     </h2>
 </div>
 </section>
