@@ -20,5 +20,4 @@
 - Guest
 
 ### Fitur Semantik :
-- Search based on judul lagu, nama penyanyi, album.
-
+- Search based on judul lagu, nama penyanyi, album, genre, label record, penulis, produser.

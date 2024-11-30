@@ -21,7 +21,10 @@
     $result = $sparqlJena->query($query)->current();
 
     // $lyrics = nl2br(htmlspecialchars($result->lyrics));
-    $lyrics = nl2br($result->lyrics);
+    // $lyrics = nl2br($result->lyrics);
+    echo "<pre>";
+    print_r($result->lyrics);
+    echo "</pre>";
 
 ?>
 
