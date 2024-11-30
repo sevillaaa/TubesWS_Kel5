@@ -1,5 +1,5 @@
 <?php
-if (isset($_POST["cari"])) {
+if (isset($_POST["keyword"])) {
     $keyword = $_POST["keyword"];
 
     $query = "
@@ -44,7 +44,7 @@ if (isset($_POST["cari"])) {
 
 <!--==================== SEARCH BAR ====================-->
 <div class="search__container">
-    <form class="search" id="search-bar">
+    <form method="POST" class="search" id="search-bar">
         <input type="text" placeholder="Search song..." name="keyword" class="search__input">
 
         <div class="search__button" id="search-button">
@@ -65,7 +65,7 @@ if (isset($_POST["cari"])) {
         <?php else : ?>
             <?php foreach ($result as $data) : ?>
                 <a class="trick__content" href="?p=song&keyword=<?= $data->name ?>">
-                    <img src="<?= $data->thumbnail ?>" alt="" class="trick__img">
+                    <img src="<?= $data->thumbnail ?>" style="height: 150px" alt="" class="trick__img">
                     <div class="trick__sub">
                         <h3 class="trick__title"><?= $data->name ?></h3>
                         <span class="trick__artist"><?= $data->artist ?></span>
