@@ -1,3 +1,28 @@
+<?php
+
+$keyword = $_POST["keyword"];
+
+$query = "
+    SELECT DISTINCT ?name ?artist ?lyrics ?genre ?record ?thumbnail ?date ?writer ?album ?producer WHERE {
+        ?d a muzzy:song;
+            rdfs:label ?name;
+            muzzy:artist ?artist;
+            muzzy:lyrics ?lyrics;
+            muzzy:genre ?genre;
+            muzzy:recordLabel ?record;
+            muzzy:thumbnail ?thumbnail;
+            muzzy:released ?date;
+            muzzy:writer ?writer;
+            muzzy:album ?album;
+            muzzy:producer ?producer .
+        FILTER(?name = '$keyword') .
+    }
+";
+
+$result = $sparqlJena->query($query)->current();
+
+?>
+
 <section class="home container" id="home">
 <!-- <div class="home__container bd-container bd-grid"> -->
 </section>
@@ -11,8 +36,8 @@
             <img src="./assets/img/mltr.jpg" class="active" id="cover">
         </div>
 
-        <h2 id="" class="music__h2">The Actor</h2>
-        <h3 id="" class="music__h3">Michael Learns to Rock</h3>
+        <h2 id="" class="music__h2"><?= $result->name ?></h2>
+        <h3 id="" class="music__h3"><?= $result->artist ?></h3>
 
         <div class="player-progress" id="player-progress">
             <div class="progress" id="progress"></div>
@@ -31,18 +56,41 @@
     </div>
 
     <div class="song__data">
-        <h2 class="song__lyrics">
+    <table class="song__lyrics">
+        <tr>
+            <td>Album</td>
+            <td>: <?= $result->island ?></td>
+        </tr>
+        <tr>
+            <td>Release Date</td>
+            <td>: <?= $result->date ?></td>
+        </tr>
+        <tr>
+            <td>Producer</td>
+            <td>: <?= $result->producer ?></td>
+        </tr>
+        <tr>
+            <td>Label</td>
+            <td>: <?= $result->record ?></td>
+        </tr>
+        <tr>
+            <td>Writer</td>
+            <td>: <?= $result->writer ?></td>
+        </tr>
+    </table>
+        <!-- <h2 class="song__lyrics">
             Album : Michael Learns to Rock <br>
             Release Date : 1991-11-11 <br>
             Producers : Oli Poulsen & Jens Hofman <br>
             Label : Impact Medley Records <br>
             Writer : Jascha Richter <br>
-        </h2>
+        </h2> -->
     </div>
     </div>
     
     <h2 class="song__lyrics">
-        He takes you out and he takes you up <br>
+        <?= $result->lyrics ?>
+        <!-- He takes you out and he takes you up <br>
         'Cause he can show you so much <br>
         I go to bed and tomorrow again <br>
         There's a lot of work to be done <br>
@@ -80,7 +128,7 @@
         That you will love me anyway <br>
         I'm not an actor, I'm not a star <br>
         And I don't even have my own car <br>
-        But I'm hoping so much you'll stay <br>
+        But I'm hoping so much you'll stay <br> -->
     </h2>
 </div>
 </section>
