@@ -1,5 +1,4 @@
 <?php
-    $keyword = $_POST["keyword"];
 
     $query = "
         SELECT DISTINCT ?name ?artist ?thumbnail WHERE {
@@ -7,7 +6,7 @@
                 rdfs:label ?name;
                 muzzy:artist ?artist;
                 muzzy:thumbnail ?thumbnail.
-        }   FILTER(?name = '$keyword') .
+        }   LIMIT 6
     ";
 
     $result = $sparqlJena->query($query);
@@ -36,7 +35,7 @@
             <?php else : ?>
                 <?php foreach ($result as $data) : ?>
                     <a class="trick__content" href="?p=song&keyword=<?= $data->name ?>">
-                        <img src="<?= $data->thumbnail ?>" alt="" class="trick__img">
+                        <img src="<?= $data->thumbnail ?>" style="height: 150px" alt="" class="trick__img">
                         <div class="trick__sub">
                             <h3 class="trick__title"><?= $data->name ?></h3>
                             <span class="trick__artist"><?= $data->artist ?></span>
