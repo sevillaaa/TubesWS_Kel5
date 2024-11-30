@@ -12,16 +12,65 @@
     <!-- All Song in Muzzy -->
     <muzzy:song rdf:about="http://dbpedia.org/resource/Still_Into_You">
         <rdfs:label>Still Into You</rdfs:label>
-        <muzzy:abstract>Still Into You is a song by American rock band Paramore. 
-            It was released on March 14, 2013, as the second single from their self-titled fourth studio album, Paramore. 
-            Recorded in 2012 in Los Angeles, California, Still Into You is a departure from the sound of
-            their previous single, Now, and incorporates a lighter pop rock sound, while being described 
-            as sweet and sugary. The song received acclaim from music critics, who have praised
-            the song and Hayley Williams vocals as catchy and strong and effective, as well as deeming it as 
-            one of the songs of the summer of 2013. It is among their most commercially 
-            successful singles in the United States, becoming a top-ten hit on the Mainstream Top 40, ranking at 
-            number eight on Billboard, Hot Rock Songs, and receiving double-platinum certification in the 
-            United States.</muzzy:abstract>
+        <muzzy:lyrics>Can't count the years on one hand
+                    That we've been together
+                    I need the other one to hold you
+                    Make you feel, make you feel better
+
+                    It's not a walk in the park
+                    To love each other
+                    But when our fingers interlock,
+                    Can't deny, can't deny you're worth it
+                    'Cause after all this time I'm still into you
+
+                    I should be over all the butterflies
+                    But I'm into you (I'm into you)
+                    And baby even on our worst nights
+                    I'm into you (I'm into you)
+
+                    Let 'em wonder how we got this far
+                    'Cause I don't really need to wonder at all
+                    Yeah, after all this time I'm still into you
+
+                    Recount the night that
+                    I first met your mother
+                    And on the drive back to my house
+                    I told you that, I told you that I loved ya
+
+                    You felt the weight of the world
+                    Fall off your shoulder
+                    And to your favorite song
+                    We sang along to the start of forever
+                    And after all this time I'm still into you
+
+                    I should be over all the butterflies
+                    But I'm into you (I'm into you)
+                    And baby even on our worst nights
+                    I'm into you (I'm into you)
+                    Let 'em wonder how we got this far
+                    'Cause I don't really need to wonder at all
+                    Yeah, after all this time I'm still into you
+
+                    Well, some things just, some things just make sense
+                    And one of those is you and I (Hey)
+                    Some things just, some things just make sense
+                    And even after all this time (Hey)
+
+                    I'm into you, baby, not a day goes by
+                    That I'm not into you
+
+                    I should be over all the butterflies
+                    But I'm into you (I'm into you)
+                    And baby even on our worst nights
+                    I'm into you (I'm into you)
+                    Let 'em wonder how we got this far
+
+                    'Cause I don't really need to wonder at all
+                    Yeah, after all this time
+                    I'm still into you
+                    I'm still into you
+                    I'm still into you
+        </muzzy:lyrics>
         <muzzy:artist>Paramore</muzzy:artist>
         <muzzy:genre>Alternative Rock, Pop Rock, Power Pop</muzzy:genre>
         <muzzy:recordLabel>Fueled by Ramen</muzzy:recordLabel>
@@ -34,16 +83,32 @@
 
     <muzzy:song rdf:about="http://dbpedia.org/resource/Don't_Panic_(Coldplay_song)">
         <rdfs:label>Don't Panic</rdfs:label>
-        <muzzy:abstract>Don't Panic is a song by the British rock band Coldplay. 
-            Originally titled Panic, the earliest known version of the song existed in 1998, performed 
-            live during the bands first gig in the same year. It had a different melody, and was included in 
-            the bands third EP, The Blue Room. The track was reproduced by Coldplay and British producer Ken Nelson 
-            for the bands debut album, Parachutes. Following their successful releases in 2000, Coldplay and their 
-            record label Parlophone thought there was enough exposure of the album in the United Kingdom. Thus, the 
-            decision of releasing a fourth single would be for regions that had not been overdosed by the hit singles 
-            Yellow and Trouble. They settled on Don't Panic, which at the time 
-            was an audience favourite. It was released in some European regions, and the United Kingdom only received 
-            a promo edition. The critical reception of the song was generally positive.</muzzy:abstract>
+        <muzzy:lyrics>Bones sinking like stones
+                    All that we fought for
+                    Homes, places we've grown
+                    All of us are done for
+
+                    And we live in a beautiful world
+                    Yeah we do, yeah we do
+                    We live in a beautiful world
+
+                    Bones sinking like stones
+                    All that we fought for
+                    And homes, places we've grown
+                    All of us are done for
+
+                    And we live in a beautiful world
+                    Yeah we do, yeah we do
+                    We live in a beautiful world
+
+                    And we live in a beautiful world
+                    Yeah we do, yeah we do
+                    We live in a beautiful world
+
+                    Oh, all that I know
+                    There's nothing here to run from
+                    'Cause yeah everybody here's got somebody to lean on
+        </muzzy:lyrics>
         <muzzy:artist>Coldplay</muzzy:artist>
         <muzzy:genre>Post-Britpop, Soft Rock</muzzy:genre>
         <muzzy:recordLabel>Parlophone</muzzy:recordLabel>
@@ -56,11 +121,44 @@
 
     <muzzy:song rdf:about="http://dbpedia.org/resource/Electric_Love_(song)">
         <rdfs:label>Electric Love</rdfs:label>
-        <muzzy:abstract>Electric Love is the debut single by American singer and songwriter Børns. 
-            The song was originally recorded by Børns for his second extended play, Candy, where it 
-            appears as the first track, and later appeared as the third track on his debut studio album, 
-            Dopamine. On February 26, 2017, the song was certified Platinum by the Recording Industry 
-            Association of America.</muzzy:abstract>
+        <muzzy:lyrics>Candy, she's sweet like candy in my veins
+                    Baby, I'm dying for another taste
+
+                    And every night my mind is running around her
+                    Thunder's getting louder and louder
+
+                    Baby, you're like lightning in a bottle
+                    I can't let you go now that I got it
+                    And all I need is to be struck
+                    By your electric love
+                    Baby, your electric love
+                    Electric love
+
+                    Drown me
+                    You make my heart beat like the rain
+                    Surround me
+                    Hold me deep beneath your waves
+
+                    And every night my mind is running around her
+                    Thunder's getting louder and louder and louder
+
+                    Baby, you're like lightning in a bottle
+                    I can't let you go now that I got it
+                    And all I need is to be struck
+                    By your electric love
+                    Baby, your electric love
+                    Electric love
+
+                    Rushing through me
+                    Feel your energy rushing through me
+                    Feel your energy rushing through me
+
+                    Baby, you're like lightning in a bottle
+                    I can't let you go now that I got it
+                    And all I need is to be struck by your electric love
+                    Baby, your electric love
+                    Baby, you're electric
+        </muzzy:lyrics>
         <muzzy:artist>Borns</muzzy:artist>
         <muzzy:genre>Glam Rock</muzzy:genre>
         <muzzy:recordLabel>Geffen, Interscope</muzzy:recordLabel>
@@ -73,21 +171,67 @@
 
     <muzzy:song rdf:about="http://dbpedia.org/resource/Paradise_(Coldplay_song)">
         <rdfs:label>Paradise</rdfs:label>
-        <muzzy:abstract>Paradise is a song by the British rock band Coldplay, 
-            released on 12 September 2011 as the second single from their fifth album, Mylo Xyloto. 
-            The song received its radio debut at 7:50 a.m. on The Chris Moyles Show (BBC Radio 1) on 12 September 2011. 
-            According to Coldplay's official website, the single was not initially chart eligible in the United Kingdom, 
-            because it was available on iTunes as an instant grat (immediate download) when pre-ordering the album. 
-            Following the release of the album on 30 October 2011, the song became chart eligible in the UK and entered the 
-            UK Singles Chart at number 14, before taking the number 1 spot on its tenth week, becoming the band's second 
-            number-one single after Viva la Vida in 2008. The song was met with positive reviews, and was the best 
-            selling rock song of 2011 in the United Kingdom, selling 410,000 copies. On 30 November, the song was nominated 
-            for a Grammy Award, in the category Best Pop Duo/Group Performance. On 12 February 2012, Coldplay performed 
-            Paradise live at the RE, along with Princess of China. At the 2012 MTV Video Music Awards 
-            on 6 September, the song won the award for Best Rock Video. Following the 2012 Stanley Cup playoffs on CBC, 
-            the song was featured in a yearly finale montage on CBC recapping the Stanley Cup Playoffs as well as British 
-            and American television advertisements and trailers for the film Life of Pi, which was nominated for eleven 
-            Academy Awards.</muzzy:abstract>
+        <muzzy:lyrics>Ooh-ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh
+                    Ooh-ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh
+
+                    When she was just a girl
+                    She expected the world
+                    But it flew away from her reach
+                    So she ran away in her sleep
+
+                    And dreamed of para-, para-, paradise
+                    Para-, para-, paradise
+                    Para-, para-, paradise
+                    Every time she closed her eyes
+
+                    Ooh-ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh
+                    Ooh-ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh
+
+                    When she was just a girl
+                    She expected the world
+                    But it flew away from her reach
+                    And the bullets catch in her teeth
+
+                    Life goes on, it gets so heavy
+                    The wheel breaks the butterfly
+                    Every tear, a waterfall
+                    In the night, the stormy night, she'd close her eyes
+                    In the night, the stormy night, away she'd fly
+
+                    And dream of para-, para-, paradise
+                    Para-, para-, paradise
+                    Para-, para-, paradise
+                    Oh, oh-oh, oh-oh, oh-oh-oh
+                    She'd dream of para-, para-, paradise
+                    Para-, para-, paradise
+                    Para-, para-, paradise
+                    Oh, oh-oh, oh-oh, oh-oh-oh
+
+                    La, la-la, la-la-la
+                    La, la-la, la-la-la
+                    La, la-la, la-la-la, la-la
+                    So lying underneath those stormy skies
+                    She said, "Oh, oh-oh-oh-oh, I know the sun must set to rise"
+
+                    This could be para-, para-, paradise
+                    Para-, para-, paradise
+                    This could be para-, para-, paradise
+                    Oh, oh-oh, oh-oh, oh-oh-oh
+                    This could be para-, para-paradise
+                    Para-, para-, paradise
+                    This could be para-, para-, paradise
+                    Oh, oh-oh, oh-oh, oh-oh-oh
+
+                    This could be para-, para-, paradise
+                    This could be para-, para-, paradise
+                    This could be para-, para-, paradise
+                    Oh-oh-oh-oh-oh oh-oh-oh
+
+                    Ooh-ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh
+                    Ooh-ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh
+                    Ooh-ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh
+                    Ooh-ooh-ooh, ooh-ooh-ooh
+        </muzzy:lyrics>
         <muzzy:artist>Coldplay</muzzy:artist>
         <muzzy:genre>R &amp; B, Pop Rock, Alternative Rock, Electronic Rock</muzzy:genre>
         <muzzy:recordLabel>Parlophone, Capitol</muzzy:recordLabel>
@@ -100,11 +244,101 @@
 
     <muzzy:song rdf:about="http://dbpedia.org/resource/Beautiful_Mistakes">
         <rdfs:label>Beautiful Mistakes</rdfs:label>
-        <muzzy:abstract>Beautiful Mistakes is a song by American band Maroon 5 featuring American 
-            rapper Megan Thee Stallion. It was released through 222 and Interscope Records on March 3, 2021, 
-            as the third single from the band's seventh studio album, Jordi. The song was written by the 
-            band's lead singer Adam Levine, Megan Thee Stallion, Jacob Kasher Hindlin, Joe Kirkland, and 
-            producers Andrew Goldstein Blackbear.</muzzy:abstract>
+        <muzzy:lyrics>[Adam Levine:]
+                    It's beautiful, it's bittersweet
+                    You're like a broken home to me
+                    I take a shot of memories
+                    And black out like an empty street
+                    I fill my days with the way you walk
+                    And fill my nights with broken dreams
+                    I make up lies inside my head
+                    Like one day you'll come back to me
+
+                    Now I'm not holding on, not holding on
+                    I'm just depressed that you're gone
+                    Not holding on, not holding on
+
+                    Beautiful mistakes, I make inside my head
+                    She's naked in my bed
+                    And now we lie awake, making beautiful mistakes
+                    I wouldn't take 'em back
+                    I'm in love with the past
+                    And now we lie awake, making beautiful mistakes
+
+                    Nah-nah-nah, in my head
+                    Nah-nah-nah, in my bed
+                    Nah-nah-nah, eh
+                    Making beautiful mistakes
+
+                    It's pitiful, I can't believe
+                    How every day gets worse for me
+                    I take a break, I cut you off
+                    To keep myself from looking soft
+                    I fill my nights with the way you was
+                    And still wake up with broken dreams
+                    I make these lies inside my head
+                    Feel like they're my reality
+
+                    Now I'm not holding on, not holding on
+                    I'm just depressed that you're gone
+                    Not holding on, not holding on
+
+                    Beautiful mistakes, I make inside my head
+                    She's naked in my bed
+                    And now we lie awake, making beautiful mistakes
+                    I wouldn't take 'em back
+                    I'm in love with the past
+                    And now we lie awake, making beautiful mistakes
+
+                    Nah-nah-nah, in my head
+                    Nah-nah-nah, in my bed
+                    Nah-nah-nah, eh eh
+                    Making beautiful mistakes
+
+                    [Megan Thee Stallion:]
+                    You did me wrong 'cause I let you
+                    Usually, I like my situations beneficial
+                    Doing something different, got me looking stupid (Damn)
+                    The only way I'm coming back to you is if you dream it, lucid (Hmm)
+                    Prove it, if you made a promise then keep it (Keep it)
+                    Why you wanna lie and then get mad? I don't believe it (Boy, bye)
+                    But really, I was doing just fine without ya
+                    Looking fine, sipping wine, dancing on club couches (Ah)
+                    Baby, why you wanna lose me like you don't need me? (Like you don't need me)
+                    Like I don't block you and you still try to reach me (Still try to reach me)
+                    How you figure out how to call me from the TV? (Huh?)
+                    You running outta chances and this time I mean it (Ah)
+
+                    Yeah, bet you miss my love, all in your bed (Bed)
+                    Now you're stressing out, pulling your hair (Hair)
+                    Smelling your pillows and wishing I was there (I was there)
+                    Sliding down the shower wall, looking sad (Sad)
+                    I know it's hard to let go, I'm the best (I'm the best)
+                    Best you ever had and best you gon' get (Gon' get)
+                    And if we break up, I don't wanna be friends (Be friends)
+                    You're toxic
+
+                    [Adam Levine:]
+                    Beautiful mistakes, I make inside my head
+                    She's naked in my bed
+                    And now we lie awake, making beautiful mistakes
+                    I wouldn't take 'em back
+                    I'm in love with the past
+                    And now we lie awake, making beautiful mistakes
+
+                    Nah-nah-nah, in my head
+                    Nah-nah-nah, in my bed
+                    Nah-nah-nah, yeah, yeah
+                    Making beautiful mistakes
+                    Nah-nah-nah, in my head
+                    Nah-nah-nah, in my bed
+                    Nah-nah-nah, eh
+                    Making beautiful mistakes
+
+                    Nah-nah-nah
+                    Nah-nah-nah (Ooh)
+                    Nah-nah-nah
+        </muzzy:lyrics>
         <muzzy:artist>Maroon 5</muzzy:artist>
         <muzzy:genre>Pop Rock</muzzy:genre>
         <muzzy:recordLabel>222 Interscope</muzzy:recordLabel>
@@ -117,12 +351,71 @@
 
     <muzzy:song rdf:about="http://dbpedia.org/resource/Night_Changes">
         <rdfs:label>Night Changes</rdfs:label>
-        <muzzy:abstract>Night Changes is a song recorded by English-Irish boy band One Direction. 
-            It was written by the band alongside Jamie Scott, Julian Bunetta and John Ryan, while the production 
-            was handled by Bunetta and Ryan. The song was released on 14 November 2014 as the second and final 
-            single from their fourth studio album Four. It also marked the last single with member Zayn Malik. 
-            A moderate commercial success, the track is one of the band's most critically acclaimed, receiving 
-            praise for contemplating the fleeting nature of life with depth and maturity.</muzzy:abstract>
+        <muzzy:lyrics>[Zayn:]
+                    Going out tonight
+                    Changes into something red
+                    Her mother doesn't like that kind of dress
+                    Everything she never had she's showing off
+
+                    [Liam:]
+                    Driving too fast
+                    Moon is breaking through her hair
+                    She's heading for something that she won't forget
+                    Having no regrets is all that she really wants
+
+                    [Harry:]
+                    We're only getting older, baby
+                    And I've been thinking about it lately
+                    Does it ever drive you crazy
+                    Just how fast the night changes?
+                    Everything that you've ever dreamed of
+                    Disappearing when you wake up
+                    But there's nothing to be afraid of
+                    Even when the night changes
+                    It will never change me and you
+
+                    [Louis:]
+                    Chasing it tonight,
+                    Doubts are running 'round her head
+                    He's waiting, hides behind a cigarette
+                    Heart is beating loud, and she doesn't want it to stop
+
+                    [Niall:]
+                    Moving too fast
+                    Moon is lighting up her skin
+                    She's falling, doesn't even know it yet
+                    Having no regrets is all that she really wants
+
+                    [Harry:]
+                    We're only getting older, baby
+                    And I've been thinking about it lately
+                    Does it ever drive you crazy
+                    Just how fast the night changes?
+                    Everything that you've ever dreamed of
+                    Disappearing when you wake up
+                    But there's nothing to be afraid of
+                    Even when the night changes
+                    It will never change me and you
+
+                    [Zayn:]
+                    Going out tonight
+                    Changes into something red
+                    Her mother doesn't like that kind of dress
+                    Reminds her of the missing piece of innocence she lost
+
+                    [Harry (along all):]
+                    We're only getting older, baby
+                    And I've been thinking about it lately
+                    Does it ever drive you crazy
+                    Just how fast the night changes?
+                    Everything that you've ever dreamed of
+                    Disappearing when you wake up
+                    But there's nothing to be afraid of
+                    Even when the night changes
+                    It will never change, baby
+                    It will never change, baby
+                    It will never change me and you
+        </muzzy:lyrics>
         <muzzy:artist>One Direction</muzzy:artist>
         <muzzy:genre>Folk Pop</muzzy:genre>
         <muzzy:recordLabel>Syco Music</muzzy:recordLabel>
@@ -135,27 +428,171 @@
 
     <muzzy:song rdf:about="http://dbpedia.org/resource/Gangnam_Style">
         <rdfs:label>Gangnam Style</rdfs:label>
-        <muzzy:abstract>Gangnam Style (Korean: 강남스타일, IPA: [kaŋ.nam sɯ.tʰa.il]) is a K-pop song by South Korean 
-            rapper Psy, released on July 15, 2012, by YG Entertainment as the lead single of his sixth studio album, Psy 
-            6 (Six Rules), Part 1 (Ssai Yukgap Part 1). The term Gangnam Style is a Korean neologism that 
-            refers to a lifestyle associated with the Gangnam District of Seoul. Gangnam Style debuted at 
-            number one on South Korea's Gaon Chart, receiving mixed to positive reviews, with praise for its catchy 
-            beat and Psy's amusing dancing and during live performances in various locations around the world in its 
-            music video. The song and its music video went viral in August 2012 and have influenced popular culture 
-            worldwide. In the United States, Gangnam Style peaked at number two on Billboard Hot 100. By the 
-            end of 2012, Gangnam Style had topped the music charts of more than 30 countries including 
-            Australia, Canada, France, Germany, Italy, Russia, Spain, and the United Kingdom. Psy's dance in the 
-            music video itself became a cultural phenomenon. In September 2012, Gangnam Style was recognized 
-            by Guinness World Records as the first YouTube video to hit 1 billion views. It subsequently won Best Video 
-            at the MTV Europe Music Awards held that year. On December 21, 2012, Gangnam Style became the 
-            first YouTube video to reach 1 billion views. As of July 15, 2022, the songs music video has more than 
-            4.48 billion views, and was the most viewed video on YouTube from November 24, 2012, when it surpassed the 
-            music video for Baby by Justin Bieber featuring Ludacris, to July 10, 2017, when it was itself 
-            surpassed by the music video for See You Again by Wiz Khalifa featuring Charlie Puth. Its dance 
-            was attempted by political leaders such as British Prime Minister David Cameron and United Nations Secretary-
-            General Ban Ki-moon, who hailed it as a force for world peace. On May 7, 2013, at a bilateral meeting with 
-            South Korea's President Park Geun-hye at the White House, US President Barack Obama cited the success 
-            of Gangnam Style as an example of how people around the world are being swept up by the Korean wave of culture.</muzzy:abstract>
+        <muzzy:lyrics>Oppan Gangnam style
+                    Gangnam style
+
+                    Najeneun ttasaroun inganjeogin yeoja
+                    Keopi hanjanui yeoyureul aneun pumgyeok inneun yeoja
+                    Bami omyeon simjangi tteugeowojineun yeoja
+                    Geureon banjeon inneun yeoja
+
+                    Naneun sanai
+                    Najeneun neomankeum ttasaroun geureon sanai
+                    Keopi sikgido jeone one-shot ttaerineun sanai
+                    Bami omyeon simjangi teojyeobeorineun sanai
+                    Geureon sanai
+
+                    Areumdawo sarangseureowo
+                    Geurae neo hey geurae baro neo hey
+
+                    Areumdawo sarangseureowo
+                    Geurae neo hey geurae baro neo hey
+
+                    Jigeumbuteo gal dekkaji gabolkka
+
+                    Oppan Gangnam style
+                    Gangnam style
+
+                    Op, op, op, op
+                    Oppan Gangnam style
+                    Gangnam style
+
+                    Op, op, op, op
+                    Oppan Gangnam style
+
+                    Eh, sexy lady
+                    Op, op, op, op
+                    Oppan Gangnam style
+
+                    Eh, sexy lady
+                    Op, op, op, op
+                    Eh-eh-eh, eh-eh-eh
+
+                    Jeongsukhae boijiman nol ttaen noneun yeoja
+                    Ittaeda sipeumyeon mukkeotdeon meori puneun yeoja
+                    Garyeotjiman wenmanhan nochulboda yahan yeoja
+                    Geureon gamgakjeogin yeoja
+
+                    Naneun sanai
+                    Jeomjanha boijiman nol ttaen noneun sanai
+                    Ttaega doemyeon wanjeon michyeobeorineun sanai
+                    Geunyukboda sasangi ultungbultunghan sanai
+                    Geureon sanai
+
+                    Areumdawo sarangseureowo
+                    Geurae neo, hey, geurae baro neo, hey
+
+                    Areumdawo sarangseureowo
+                    Geurae neo, hey, geurae baro neo, hey
+
+                    Jigeumbuteo gal dekkaji gabolkka
+
+                    Oppan Gangnam style
+                    Gangnam style
+
+                    Op, op, op, op
+                    Oppan Gangnam style
+                    Gangnam style
+
+                    Op, op, op, op
+                    Oppan Gangnam style
+
+                    Eh, sexy lady
+                    Op, op, op, op
+                    Oppan Gangnam style
+
+                    Eh, sexy lady
+                    Op, op, op, op
+                    Eh-eh-eh, eh-eh-eh
+
+                    Ttwineun nom geu wie naneun nom
+                    Baby, baby
+                    Naneun mwol jom aneun nom
+
+                    Ttwineun nom geu wie naneun nom
+                    Baby, baby
+                    Naneun mwol jom aneun nom
+                    You know what I'm saying
+
+                    Oppan Gangnam style
+                    Eh-eh-eh, eh-eh-eh
+                    Eh, sexy lady
+                    Op, op, op, op
+                    Oppan Gangnam style
+
+                    Eh, sexy lady
+                    Op, op, op, op
+                    Eh-eh-eh, eh-eh-eh
+
+                    Oppan Gangnam style
+
+                    [English translation:]
+
+                    Uncle is Gangnam style
+                    Gangnam style
+
+                    A girl who is warm and humanly during the day
+                    A classy girl who knows how to enjoy the freedom of a cup of coffee
+                    A girl whose heart gets hotter when night comes
+                    A girl with that kind of twist
+
+                    I'm a guy
+                    A guy who is as warm as you during the day
+                    A guy who one-shots his coffee before it even cools down
+                    A guy whose heart bursts when night comes
+                    That kind of guy
+
+                    Beautiful, loveable
+                    Yes you, hey, yes you, hey
+                    Beautiful, loveable
+                    Yes you, hey, yes you, hey
+                    Now let's go until the end
+
+                    Uncle is Gangnam style, Gangnam style
+                    Uncle is Gangnam style, Gangnam style
+                    Uncle is Gangnam style
+
+                    Eh sexy lady
+                    Uncle is Gangnam style
+                    Eh sexy lady
+
+                    A girl who looks quiet but plays when she plays
+                    A girl who puts her hair down when the right time comes
+                    A girl who covers herself but is more sexy than a girl who bares it all
+                    A sensible girl like that
+
+                    I'm a guy
+                    A guy who seems calm but plays when he plays
+                    A guy who goes completely crazy when the right time comes
+                    A guy who has bulging ideas rather than muscles
+                    That kind of guy
+
+                    Beautiful, loveable
+                    Yes you, hey, yes you, hey
+                    Beautiful, loveable
+                    Yes you, hey, yes you, hey
+                    Now let's go until the end
+
+                    Uncle is Gangnam style, Gangnam style
+                    Uncle is Gangnam style, Gangnam style
+                    Uncle is Gangnam style
+
+                    Eh sexy lady
+                    Uncle is Gangnam style
+                    Eh sexy lady
+
+                    On top of the running man is the flying man, baby baby
+                    I'm a man who knows a thing or two
+                    On top of the running man is the flying man, baby baby
+                    I'm a man who knows a thing or two
+
+                    You know what I'm saying
+                    Uncle is Gangnam style
+
+                    Eh sexy lady
+                    Uncle is Gangnam style
+                    Eh sexy lady
+        </muzzy:lyrics>
         <muzzy:artist>PSY</muzzy:artist>
         <muzzy:genre>EDM, K-Pop, Dance-Pop</muzzy:genre>
         <muzzy:recordLabel>YG, School Boy, Universal Republic</muzzy:recordLabel>
@@ -168,22 +605,141 @@
 
     <muzzy:song rdf:about="http://dbpedia.org/resource/Smooth_Criminal">
         <rdfs:label>Smooth Criminal</rdfs:label>
-        <muzzy:abstract>Smooth Criminal is a song by the American singer Michael Jackson, released on November 14, 1988, 
-            as the seventh single from his seventh album, Bad (1987). It was written by Jackson and produced by 
-            Jackson and Quincy Jones. The lyrics address a woman who has been attacked in her apartment by a 
-            smooth criminal. The refrain Annie, are you OK? was inspired by Resusci Anne, 
-            a dummy used in CPR training. The music video for Smooth Criminal, which premiered on MTV on 
-            October 13, 1988, is the centerpiece of the 1988 film Moonwalker. The 1930s setting and Jackson's 
-            white suit and fedora pay tribute to the Fred Astaire musical comedy film *The Band Wagon*. In the video, 
-            Jackson and the dancers perform an apparently physically impossible anti-gravity lean. 
-            Smooth Criminal reached number seven on the Billboard Hot 100, becoming the sixth top-10 single 
-            from Bad. It reached number two on the Billboard Hot Black Singles chart. It was certified double platinum 
-            by the Recording Industry Association of America (RIAA). The song reached number one in Belgium, Iceland, 
-            the Netherlands, and Spain. Retrospective reviews have described it as one of Jackson's best songs. 
-            Rolling Stone wrote that it was his best blend of R &amp; B groove and rock edginess, and a turning 
-            point in his shift toward darker, harder-edged material. It has appeared on numerous greatest hits 
-            albums and was performed on all of Jackson's solo tours. Smooth Criminal was re-released in 
-            2006 as a single as a part of Jackson's Visionary: The Video Singles boxset.</muzzy:abstract>
+        <muzzy:lyrics>Ow!
+                    Cha!
+                    Shoo-cha-choo-cha!
+
+                    As he came into the window
+                    Was a sound of a crescendo
+                    He came into her apartment
+                    He left the bloodstains on the carpet
+                    She ran underneath the table
+                    He could see she was unable
+                    So she ran into the bedroom
+                    She was struck down, it was her doom
+
+                    Annie, are you OK?
+                    So, Annie, are you OK?
+                    Are you OK, Annie?
+                    Annie, are you OK?
+                    So, Annie, are you OK?
+                    Are you OK, Annie?
+                    Annie, are you OK?
+                    So, Annie, are you OK?
+                    Are you OK, Annie?
+                    Annie, are you OK?
+                    So, Annie, are you OK?
+                    Are you OK, Annie?
+
+                    Annie, are you OK?
+                    Will you tell us that you're OK
+                    There's a sound at the window
+                    Then he struck you a crescendo, Annie
+                    He came into your apartment
+                    Left the bloodstains on the carpet
+                    And then you ran into the bedroom
+                    You were struck down
+                    It was your doom
+
+                    Annie, are you OK?
+                    So, Annie, are you OK?
+                    Are you OK, Annie?
+                    Annie, are you OK?
+                    So, Annie, are you OK?
+                    Are you OK, Annie?
+
+                    Annie, are you OK?
+                    So, Annie, are you OK?
+                    Are you OK, Annie?
+                    You've been hit by—
+                    You've been hit by a smooth criminal
+                    Ow!
+
+                    So they came into the outway
+                    It was Sunday, what a black day
+                    Mouth-to-mouth resuscitation
+                    Sounding heartbeats intimidations
+
+                    Annie, are you OK?
+                    So, Annie, are you OK?
+                    Are you OK, Annie?
+                    Annie, are you OK?
+                    So, Annie, are you OK?
+                    Are you OK, Annie?
+
+                    Annie, are you OK?
+                    So, Annie, are you OK?
+                    Are you OK, Annie?
+                    Annie, are you OK?
+                    So, Annie, are you OK?
+                    Are you OK, Annie?
+
+                    Annie, are you OK?
+                    Will you tell us that you're OK
+                    There's a sound at the window
+                    Then he struck you a crescendo, Annie
+                    He came into your apartment
+                    Left the bloodstains on the carpet
+                    And then you ran into the bedroom
+                    You were struck down
+                    It was your doom
+
+                    Annie, are you OK?
+                    So, Annie, are you OK?
+                    Are you OK, Annie?
+                    You've been hit by—
+                    You've been struck by a smooth criminal
+
+                    Choo-cha, choo-cha
+                    Ow!
+                    OK, I want everybody to clear the area right now!
+
+                    Ow!
+                    Hoo!
+                    Hoo!
+                    Hoo!
+                    Hoo!
+                    Ow!
+
+                    Annie, are you OK?
+                    I don't know!
+                    Will you tell us, that you're OK
+                    I don't know!
+                    There's a sound at the window
+                    I don't know!
+                    That he struck you a crescendo, Annie
+                    I don't know!
+
+                    He came into your apartment
+                    I don't know!
+                    Left the bloodstains on the carpet
+                    I don't know why baby!
+                    And then you ran into the bedroom (Help me)
+                    You were struck down
+                    It was your doom, Annie! (Dag gone it)
+
+                    Annie, are you OK?
+                    Dag gone it, baby!
+                    Will you tell us, that you're OK
+                    Dag gone it, baby!
+                    There's a sound at the window
+                    Dag gone it, baby!
+                    Then he struck you a crescendo, Annie (Hoo! Hoo!)
+
+                    He came into your apartment
+                    Dag gone it!
+                    Left bloodstains on the carpet (Hoo!)
+                    And then you ran into the bedroom (Hoo! Hoo!)
+                    Dag gone it!
+                    You were struck down
+                    It was your doom, Annie!
+
+                    Ow!
+                    Ow!
+                    Shoo-cha-choo, shoo-cha-choo!
+                    Ow!
+                    Ow!
+        </muzzy:lyrics>
         <muzzy:artist>Michael Jackson, Alien Ant Farm</muzzy:artist>
         <muzzy:genre>Metal, Pop, R &amp; B</muzzy:genre>
         <muzzy:recordLabel>Epic Records, DreamWorks Records</muzzy:recordLabel>
@@ -196,12 +752,116 @@
 
     <muzzy:song rdf:about="http://dbpedia.org/resource/Bad_Romance">
         <rdfs:label>Bad Romance</rdfs:label>
-        <muzzy:abstract>"Bad Romance" is a song by American singer Lady Gaga from her third extended play (EP), 
-            The Fame Monster (2009). It features electropop and dance-pop influences, with German house and techno 
-            inspirations. The song explores themes of unhealthy romantic relationships and paranoia, receiving 
-            widespread acclaim for its beat, hook, and chorus. "Bad Romance" topped the charts in more than 20 countries, 
-            sold over 12 million copies globally, and became one of the best-selling singles of all time. Its iconic 
-            music video, directed by Francis Lawrence, won numerous awards, including a Grammy for Best Music Video.</muzzy:abstract>
+        <muzzy:lyrics>Oh-oh-oh-oh-oh, oh-oh-oh-oh, oh-oh-oh
+                    Caught in a bad romance
+                    Oh-oh-oh-oh-oh, oh-oh-oh-oh, oh-oh-oh
+                    Caught in a bad romance
+                    Ra-ra-ah-ah-ah
+                    Roma Roma-ma
+                    Gaga, "Ooh la-la"
+                    Want your bad romance
+                    Ra-ra-ah-ah-ah
+                    Roma, Roma-ma
+                    Gaga, "Ooh la-la"
+                    Want your bad romance
+
+                    I want your ugly, I want your disease
+                    I want your everything as long as it's free
+                    I want your love
+                    Love, love, love, I want your love, oh, ey
+                    I want your drama, the touch of your hand (Hey!)
+                    I want your leather-studded kiss in the sand
+                    I want your love
+                    Love, love, love, I want your love
+                    (Love, love, love, I want your love)
+
+                    You know that I want you
+                    And you know that I need you
+                    I want it bad
+                    Your bad romance
+
+                    I want your love, and I want your revenge
+                    You and me could write a bad romance (Oh-oh-oh-oh-oh)
+                    I want your love, and all your lover's revenge
+                    You and me could write a bad romance
+                    Oh-oh-oh-oh-oh, oh-oh-oh-oh, oh-oh-oh
+                    Caught in a bad romance
+                    Oh-oh-oh-oh-oh, oh-oh-oh-oh, oh-oh-oh
+                    Caught in a bad romance
+
+                    Ra-ra-ah-ah-ah
+                    Roma-roma-ma
+                    Gaga, "Ooh la-la"
+                    Want your bad romance
+
+                    I want your horror, I want your design
+                    'Cause you're a criminal as long as you're mine
+                    I want your love
+                    Love, love, love, I want your love, uh
+                    I want your psycho, your vertigo schtick (Schtick, hey!)
+                    Want you in my rear window, baby, you're sick
+                    I want your love
+                    Love, love, love, I want your love
+                    (Love, love, love, I want your love)
+
+                    You know that I want you
+                    And you know that I need you ('Cause I'm a free bitch, baby)
+                    I want it bad
+                    Your bad romance
+
+                    I want your love, and I want your revenge
+                    You and me could write a bad romance (Oh-oh-oh-oh-oh)
+                    I want your love, and all your lover's revenge
+                    You and me could write a bad romance
+                    Oh-oh-oh-oh-oh, oh-oh-oh-oh, oh-oh-oh
+                    Caught in a bad romance
+                    Oh-oh-oh-oh-oh, oh-oh-oh-oh, oh-oh-oh
+                    Caught in a bad romance
+
+                    Ra-ra-ah-ah-ah
+                    Roma-roma-ma
+                    Gaga, "Ooh la-la"
+                    Want your bad romance
+                    Ra-ra-ah-ah-ah
+                    Roma-roma-ma
+                    Gaga, "Ooh la-la"
+                    Want your bad romance
+
+                    Walk, walk, fashion, baby
+                    Work it, move that bitch crazy
+                    Walk, walk, fashion, baby
+                    Work it, move that bitch crazy
+                    Walk, walk, fashion, baby
+                    Work it, move that bitch crazy
+                    Walk, walk, passion, baby
+                    Work it, I'm a free bitch, baby
+
+                    I want your love, and I want your revenge
+                    I want your love, I don't wanna be friends
+                    Je veux ton amour et je veux ta revanche
+                    Je veux ton amour, I don't wanna be friends
+                    (Oh-oh-oh-oh-oh, oh-oh-oh-oh, oh-oh-oh)
+                    (I want you back) No, I don't wanna be friends
+                    (Caught in a bad romance) I don't wanna be friends
+                    Want your bad romance
+                    (Caught in a bad romance) Want your bad romance
+
+                    I want your love, and I want your revenge
+                    You and me could write a bad romance (Oh-oh-oh-oh-oh)
+                    I want your love, and all your lover's revenge
+                    You and me could write a bad romance
+                    Oh-oh-oh-oh-oh, oh-oh-oh-oh, oh-oh-oh
+                    (Want your bad romance)
+                    Caught in a bad romance (Want your bad romance)
+                    Oh-oh-oh-oh-oh, oh-oh-oh-oh, oh-oh-oh
+                    (Want your bad romance)
+                    Caught in a bad romance
+
+                    Ra-ra-ah-ah-ah
+                    Roma, Roma-ma
+                    Gaga, "Ooh la-la"
+                    Want your bad romance
+        </muzzy:lyrics>
         <muzzy:artist>Lady Gaga</muzzy:artist>
         <muzzy:genre>Electropop, Dance-pop</muzzy:genre>
         <muzzy:recordLabel>Streamline, Kon Live, Cherrytree, Interscope</muzzy:recordLabel>
@@ -214,12 +874,50 @@
 
     <muzzy:song rdf:about="http://dbpedia.org/resource/Heartbreak_Anniversary">
         <rdfs:label>Heartbreak Anniversary</rdfs:label>
-        <muzzy:abstract>"Heartbreak Anniversary" is a song by American singer-songwriter Giveon. It was released on 
-            February 21, 2020, as the second single from his debut EP, Take Time (2020). Written from the perspective of a 
-            friend of Giveon's, the downtempo piano ballad finds him singing about the date of a breakup, reminiscing and 
-            grieving about a love gone wrong. The song became a sleeper hit, garnering chart success in early 2021, with a 
-            music video subsequently being released, and the song was sent to US radio, in March 2021. It reached number one 
-            Malaysia and Singapore.</muzzy:abstract>
+        <muzzy:lyrics>Balloons are deflated
+                    Guess they look lifeless like me
+                    We miss you on your side of the bed, mmm
+                    Still got your things here
+                    And they stare at me like souvenirs
+                    Don't wanna let you out my head
+
+                    Just like the day that I met you, the day I thought forever
+                    Said that you love me, but that'll last for never
+                    It's cold outside like when you walked out my life
+                    Why you walk out my life?
+
+                    I get like this every time
+                    On these days that feel like you and me
+                    Heartbreak anniversary
+                    'Cause I remember every time
+                    On these days that feel like you and me
+                    Heartbreak anniversary, do you ever think of me?
+                    (Oh-ooh) No
+                    (Ooh) No, no, no
+                    (Ooh, ooh) Ooh, nah (Ooh)
+
+                    I'm buildin' my hopes up
+                    Like presents unopened to this day
+                    I still see the messages you read, mmm
+                    I'm foolishly patient (Foolishly patient)
+                    Can't get past the taste of your lips (Taste of your lips)
+                    Don't wanna let you out my head
+
+                    Just like the day that I met you, the day I thought forever
+                    Said that you love me but that'll last for never
+                    It's cold outside like when you walked out my life
+                    Why you walk out my life? (My life)
+
+                    I get like this every time
+                    On these days that feel like you and me
+                    Heartbreak anniversary
+                    'Cause I remember every time
+                    On these days that feel like you and me
+                    Heartbreak anniversary, do you ever think of me?
+                    (Oh-ooh) Of me
+                    (Ooh) 'Cause I think of you, think of you
+                    (Ooh, ooh, ooh-ooh)
+        </muzzy:lyrics>
         <muzzy:artist>Giveon</muzzy:artist>
         <muzzy:genre>Electro, R &amp; B, Soul Music</muzzy:genre>
         <muzzy:recordLabel>Epic, Not So Fast</muzzy:recordLabel>
@@ -232,10 +930,10 @@
 
     <muzzy:song rdf:about="http://dbpedia.org/resource/Fly_Me_to_the_Moon">
         <rdfs:label>Fly Me to the Moon</rdfs:label>
-        <muzzy:abstract>"Fly Me to the Moon", originally titled "In Other Words", is a song written in 1954 by Bart 
+        <muzzy:lyrics>"Fly Me to the Moon", originally titled "In Other Words", is a song written in 1954 by Bart 
             Howard. The first recording of the song was made in 1954 by Kaye Ballard. Frank Sinatra's 1964 version was 
             closely associated with the Apollo missions to the Moon. In 1999, the Songwriters Hall of Fame honored "Fly 
-            Me to the Moon" by inducting it as a "Towering Song".</muzzy:abstract>
+            Me to the Moon" by inducting it as a "Towering Song".</muzzy:lyrics>
         <muzzy:artist>Kaye Ballard</muzzy:artist>
         <muzzy:genre>Jazz</muzzy:genre>
         <muzzy:recordLabel>Decca Records</muzzy:recordLabel>
@@ -246,9 +944,38 @@
 
     <muzzy:song rdf:about="http://dbpedia.org/resource/Sanctuary_(Joji_song)">
         <rdfs:label>Sanctuary</rdfs:label>
-        <muzzy:abstract>"Sanctuary" is a song by Japanese singer-songwriter Joji. It was released on 14 June 2019 through 
-            88rising Records and 12 Tone Music. The track was written by Joji, Daniel Wilson, Justin Raisen and Luke Niccoli, 
-            Raisen handling production. Eoin Glaister directed the song's accompanying music video.</muzzy:abstract>
+        <muzzy:lyrics>Go ahead and bark after dark, fallen star
+                    I'm your one-call away
+                    Motel halls, neon walls
+                    When night falls I am your escape
+                    When you lay alone, I ache
+                    Something I wanted to feel
+
+                    If you've been waiting for falling in love
+                    Babe, you don't have to wait on me
+                    'Cause I've been aiming for heaven above
+                    But an angel ain't what I need
+
+                    Not anyone, you're the one
+                    More than fun, you're the sanctuary
+                    'Cause what you want is what I want, sincerity
+
+                    Souls that dream alone lie awake
+                    I'll give you something so real
+
+                    If you've been waiting for falling in love
+                    Babe, you don't have to wait on me
+                    'Cause I've been aiming for heaven above
+                    But an angel ain't what I need
+
+                    Hold me oh so close, 'cause you never know
+                    Just how long our lives will be
+
+                    If you've been waiting for falling in love
+                    Babe, you don't have to wait on me
+                    'Cause I've been aiming for heaven above
+                    But an angel ain't what I need
+        </muzzy:lyrics>
         <muzzy:artist>Joji</muzzy:artist>
         <muzzy:genre>Lo-fi Music, R &amp; B, Electropop, Synth-Pop, Soul Music</muzzy:genre>
         <muzzy:recordLabel>88rising, 12 Tone Music</muzzy:recordLabel>
@@ -261,14 +988,94 @@
 
     <muzzy:song rdf:about="http://dbpedia.org/resource/Beautiful_Girls_(Sean_Kingston_song)">
         <rdfs:label>Beautiful Girls</rdfs:label>
-        <muzzy:abstract>Beautiful Girls is a song by Jamaican-American reggae fusion artist Sean Kingston. 
-            It was released on May 26, 2007, as the debut single from his self-titled album, Sean Kingston. 
-            The song interpolates the bassline from Ben E. King's classic hit Stand by Me and is recognized 
-            for its catchy melody and bittersweet lyrics. Its narrative explores themes of heartbreak and 
-            romantic struggles, presented with a playful and summery sound. The song achieved widespread 
-            commercial success, reaching number one in numerous countries, including the United States, 
-            Canada, and the United Kingdom. It has been certified multi-platinum and remains one of Sean 
-            Kingston's most iconic tracks.</muzzy:abstract>
+        <muzzy:lyrics>You're way too beautiful girl
+                    That's why it'll never work
+                    You have me suicidal, suicidal
+                    When you say it's over
+                    Damn all these beautiful girls
+                    They only wanna do you dirt
+                    They'll have you suicidal, suicidal
+                    When they say it's over
+
+                    See it started at the park
+                    Used to chill after dark
+                    Oh when you took my heart
+                    That's when we fell apart
+                    'Cause we both thought
+                    That love last forever (last forever)
+                    They say we're too young
+                    To get ourselves sprung
+                    Oh we didn't care
+                    We made it very clear
+                    And they also said
+                    That we couldn't last together (last together)
+
+                    See it's very defined
+                    You're one of a kind
+                    But you mash up my mind
+                    You ought to get declined
+                    Oh Lord
+                    My baby is driving me crazy
+
+                    You're way too beautiful girl
+                    That's why it'll never work
+                    You have me suicidal, suicidal
+                    When you say it's over
+                    Damn all these beautiful girls
+                    They only wanna do you dirt
+                    They'll have you suicidal, suicidal
+                    When they say it's over
+
+                    It was back in '99
+                    Watchin' movies all the time
+                    Oh when I went away
+                    For doin' my first crime
+                    And I never thought
+                    That we was gonna see each other (see each other)
+                    And then I came out
+                    Mami moved me down south
+                    Oh I'm with my girl
+                    Who I thought was my world
+                    It came out to be
+                    That she wasn't the girl for me (girl for me)
+
+                    See it's very defined
+                    You're one of a kind
+                    But you mash up my mind
+                    You have to get declined
+                    Oh Lord
+                    My baby is driving me crazy
+
+                    You're way too beautiful girl
+                    That's why it'll never work
+                    You have me suicidal, suicidal
+                    When you say it's over
+                    Damn all these beautiful girls
+                    They only wanna do you dirt
+                    They'll have you suicidal, suicidal
+                    When they say it's over
+
+                    Now we're fussin'
+                    And now we're fightin'
+                    Please tell me why
+                    I'm feelin' slighted
+                    And I don't know
+                    How to make it better (make it better)
+                    You're datin' other guys
+                    You're tellin' me lies
+                    Oh I can't believe
+                    What I'm seein' with my eyes
+                    I'm losin' my mind
+                    And I don't think it's clever (think it's clever)
+
+                    You're way too beautiful, girl
+                    That's why it'll never work
+                    You have me suicidal, suicidal
+                    When you say it's over
+                    Damn, all these beautiful girls
+                    They only wanna do you dirt
+                    They'll have you suicidal, suicidal, suicidal, suicidal
+        </muzzy:lyrics>
         <muzzy:artist>Sean Kingston</muzzy:artist>
         <muzzy:genre>Reggae Fusion</muzzy:genre>
         <muzzy:recordLabel>Epic Records</muzzy:recordLabel>
@@ -281,14 +1088,71 @@
 
     <muzzy:song rdf:about="http://dbpedia.org/resource/Locked_Out_of_Heaven">
         <rdfs:label>Locked Out of Heaven</rdfs:label>
-        <muzzy:abstract>Locked Out of Heaven is a song by American artist Bruno Mars, 
-            released as the lead single from his second studio album, Unorthodox Jukebox, on October 1, 2012. 
-            Written by Mars, Philip Lawrence, and Ari Levine, the track is a fusion of pop, rock, and reggae influences, 
-            reminiscent of the style of bands like The Police. Its lyrics express the ecstatic emotions of falling in love, 
-            characterized by euphoric melodies and a pulsating rhythm. Critics praised the song for its infectious energy, 
-            retro vibes, and Mars's dynamic vocal performance. Commercially, it became a global hit, topping the Billboard 
-            Hot 100 for six consecutive weeks and charting within the top ten in over 20 countries. Locked Out of Heaven 
-            earned numerous accolades, including Grammy nominations, and solidified Bruno Mars's status as a global pop icon.</muzzy:abstract>
+        <muzzy:lyrics>One, two, one, two, three
+
+                    Oh, yeah, yeah,
+                    Oh, yeah, yeah, yeah, yeah,
+                    Ooh!
+                    Oh, yeah, yeah,
+                    Oh, yeah, yeah, yeah, yeah,
+                    Ooh!
+
+                    Never had much faith in love or miracles
+                    Ooh!
+                    Never wanna put my heart on the line
+                    Ooh!
+                    But swimming in your water is something spiritual
+                    Ooh!
+                    I'm born again every time you spend the night
+                    Ooh!
+
+                    'Cause your sex takes me to paradise
+                    Yeah, your sex takes me to paradise
+                    And it shows, yeah, yeah, yeah
+
+                    'Cause you make me feel like I've been locked out of heaven
+                    For too long, for too long
+                    Yeah, you make me feel like I've been locked out of heaven
+                    For too long, for too long
+
+                    Oh, yeah, yeah, yeah, yeah,
+                    Ooh!
+                    Oh, yeah, yeah,
+                    Oh, yeah, yeah, yeah, yeah,
+                    Ooh!
+
+                    You bring me to my knees, you make me testify
+                    You can make a sinner change his ways
+                    Open up your gates 'cause I can't wait to see the light
+                    And right there is where I wanna stay
+
+                    'Cause your sex takes me to paradise
+                    Yeah, your sex takes me to paradise
+                    And it shows, yeah, yeah, yeah
+
+                    'Cause you make me feel like I've been locked out of heaven
+                    For too long, for too long
+                    Yeah, you make me feel like I've been locked out of heaven
+                    For too long, for too long
+
+                    Oh, oh, oh, oh, yeah, yeah, yeah
+                    Can I just stay here?
+                    Spend the rest of my days here?
+                    Oh, oh, oh, oh, yeah, yeah, yeah
+                    Can I just stay here?
+                    Spend the rest of my days here?
+
+                    'Cause you make me feel like I've been locked out of heaven
+                    For too long, for too long
+                    Yeah, you make me feel like I've been locked out of heaven
+                    For too long, for too long
+
+                    Oh, yeah, yeah, yeah, yeah,
+                    Ooh!
+                    Oh, yeah, yeah,
+                    Oh, yeah, yeah, yeah, yeah,
+                    Ooh!
+        </muzzy:lyrics>
         <muzzy:artist>Bruno Mars</muzzy:artist>
         <muzzy:genre>Pop Rock</muzzy:genre>
         <muzzy:recordLabel>Atlantic Records</muzzy:recordLabel>
@@ -301,15 +1165,72 @@
 
     <muzzy:song rdf:about="http://dbpedia.org/resource/Better_Now">
         <rdfs:label>Better Now</rdfs:label>
-        <muzzy:abstract>Better Now is a song by American rapper and singer Post Malone, 
-            released as part of his critically acclaimed second studio album, Beerbongs Bentleys, on May 1, 2018. 
-            The song reflects on themes of heartbreak and regret, with the narrator addressing a past relationship while grappling 
-            with feelings of loss and personal growth. It features a melodic blend of pop and rap, with a catchy chorus and 
-            introspective verses that showcase Post Malone's distinctive vocal style. Better Now received widespread 
-            critical acclaim for its relatable lyrics and polished production, becoming a fan favorite. It achieved immense 
-            commercial success, charting in the top ten of the Billboard Hot 100 and reaching similar positions in multiple 
-            international charts. The track has been certified multi-platinum, cementing Post Malone's reputation as one of 
-            the most versatile and influential artists of his generation.</muzzy:abstract>
+        <muzzy:lyrics>You probably think that you are better now, better now
+                    You only say that 'cause I'm not around, not around
+                    You know I never meant to let you down, let you down
+                    Woulda gave you anything, woulda gave you everything
+                    You know I say that I am better now, better now
+                    I only say that 'cause you're not around, not around
+                    You know I never meant to let you down, let you down
+                    Woulda gave you anything, woulda gave you everything
+                    Oh-oh
+
+                    I did not believe that it would end, no
+                    Everything came second to the Benzo
+                    You're not even speakin' to my friends, no
+                    You knew all my uncles and my aunts though
+                    Twenty candles, blow 'em out and open your eyes
+                    We were lookin' forward to the rest of our lives
+                    Used to keep my picture posted by your bedside
+                    Now it's in your dresser with the socks you don't like
+                    And I'm rollin', rollin', rollin', rollin'
+                    With my brothers like it's Jonas, Jonas
+                    Drinkin' Henny and I'm tryna forget
+                    But I can't get this shit outta my head
+
+                    You probably think that you are better now, better now
+                    You only say that 'cause I'm not around, not around
+                    You know I never meant to let you down, let you down
+                    Woulda gave you anything, woulda gave you everything
+                    You know I say that I am better now, better now
+                    I only say that 'cause you're not around, not around
+                    You know I never meant to let you down, let you down
+                    Woulda gave you anything, woulda gave you everything
+                    Oh-oh
+
+                    I seen you with your other dude
+                    He seemed like he was pretty cool
+                    I was so broken over you
+                    Life it goes on, what can you do?
+                    I just wonder what it’s gonna take
+                    Another foreign or a bigger chain (bigger chain)
+                    Because no matter how my life has changed
+                    I keep on looking back on better days
+
+                    You probably think that you are better now, better now
+                    You only say that 'cause I'm not around, not around
+                    You know I never meant to let you down, let you down
+                    Woulda gave you anything, woulda gave you everything
+                    You know I say that I am better now, better now
+                    I only say that 'cause you're not around, not around
+                    You know I never meant to let you down, let you down
+                    Woulda gave you anything, woulda gave you everything
+                    Oh-oh
+
+                    I promise
+                    I swear to you, I'll be okay
+                    You're only the love of my life (love of my life)
+
+                    You probably think that you are better now, better now
+                    You only say that 'cause I'm not around, not around
+                    You know I never meant to let you down, let you down
+                    Woulda gave you anything, woulda gave you everything
+                    You know I say that I am better now, better now
+                    I only say that 'cause you're not around, not around
+                    You know I never meant to let you down, let you down
+                    Woulda gave you anything, woulda gave you everything
+                    Oh-oh
+        </muzzy:lyrics>
         <muzzy:artist>Post Malone</muzzy:artist>
         <muzzy:genre>Pop Rap</muzzy:genre>
         <muzzy:recordLabel>Republic Records</muzzy:recordLabel>
@@ -322,9 +1243,36 @@
 
     <muzzy:song rdf:about="http://dbpedia.org/resource/The_Actor_(Michael_Learns_to_Rock_song)">
         <rdfs:label>The Actor</rdfs:label>
-        <muzzy:abstract>"The Actor" is a ballad by Danish soft rock band Michael Learns to Rock. The song is taken 
-            from their self-titled debut album, which was released in 1991. It reached number one in Norway and topped 
-            Indonesia's airplay charts. The band has played the song regularly during their Asian tours.</muzzy:abstract>
+        <muzzy:lyrics>He takes you out and he takes you up
+                    'cause he can show you so much
+                    I go to bed and tomorrow again
+                    there's a lot of work to be done
+
+                    He gives you gold and he'll promise you
+                    the whole world will be yours
+                    I just can tell you I love you so
+                    even though my odds are low
+
+                    [Chorus:]
+                    I'm not an actor I'm not a star
+                    and I don't even have my own car
+                    But I'm hoping so much you'll stay
+                    that you will love me anyway
+
+                    The dirty games and the neonshows
+                    this is the world he knows
+                    Watching the stars satisfies my soul
+                    thinking of him makes me feel so cold
+
+                    The fancy cars and the restaurants
+                    you're just so fond of the man
+                    Sometimes I wonder if you are blind
+                    can't you see, he's got dirt on his mind
+
+                    [Chorus:]
+                    I'm not an actor I'm not a star
+                    and I don't even have my own car...
+        </muzzy:lyrics>
         <muzzy:artist>Michael Learns to Rock</muzzy:artist>
         <muzzy:recordLabel>Impact Records</muzzy:recordLabel>
         <muzzy:producer>Oli Poulsen, Jens Hofman</muzzy:producer>
@@ -336,11 +1284,69 @@
 
     <muzzy:song rdf:about="http://dbpedia.org/resource/Story_of_My_Life_(One_Direction_song)">
         <rdfs:label>Story of My Life</rdfs:label>
-        <muzzy:abstract>Story of My Life is a song recorded by English-Irish boy band One Direction. 
-            It was released on 28 October 2013 by Syco Music and Columbia Records as the second single from the 
-            groups third studio album, Midnight Memories (2013). Written by band members Niall Horan, Zayn Malik, 
-            Harry Styles, Liam Payne, and Louis Tomlinson, along with Julian Bunetta, Jamie Scott, John Ryan, and 
-            Hanoch Dagan. The lyrics speak of a tumultuous relationship leading to lament and heartbreak.</muzzy:abstract>
+        <muzzy:lyrics>Written in these walls are the stories that I can't explain
+                    I leave my heart open but it stays right here empty for days
+                    She told me in the morning she don't feel the same about us in her bones
+                    It seems to me that when I die these words will be written on my stone
+
+                    And I'll be gone, gone tonight
+                    The ground beneath my feet is open wide
+                    The way that I been holding on too tight
+                    With nothing in between
+
+                    The story of my life
+                    I take her home
+                    I drive all night
+                    To keep her warm
+                    And time is frozen (the story of, the story of)
+                    The story of my life
+                    I give her hope
+                    I spend her love
+                    Until she's broke
+                    Inside
+                    The story of my life (the story of, the story of)
+
+                    Written on these walls are the colors that I can't change
+                    Leave my heart open but it stays right here in its cage
+                    I know that in the morning now I'll see us in the light upon a hill
+                    Although I am broken, my heart is untamed, still
+
+                    And I'll be gone, gone tonight
+                    The fire beneath my feet is burning bright
+                    The way that I've been holding on so tight
+                    With nothing in between
+
+                    The story of my life
+                    I take her home
+                    I drive all night
+                    To keep her warm
+                    And time is frozen (the story of, the story of)
+                    The story of my life
+                    I give her hope
+                    I spend her love
+                    Until she's broke
+                    Inside
+                    The story of my life (the story of, the story of)
+
+                    And I been waiting for this time to come around
+                    But baby running after you is like chasing the clouds
+
+                    The story of my life
+                    I take her home
+                    I drive all night
+                    To keep her warm
+                    And time is frozen
+                    The story of my life
+                    I give her hope (give her hope)
+                    I spend her love
+                    Until she's broke (until she's broke inside)
+                    Inside
+                    The story of my life (the story of, the story of)
+
+                    The story of my life
+                    The story of my life (the story of, the story of)
+                    The story of my life
+        </muzzy:lyrics>
         <muzzy:artist>One Direction</muzzy:artist>
         <muzzy:genre>Folktronica</muzzy:genre>
         <muzzy:producer>John Ryan, Julian Bunetta</muzzy:producer>
@@ -352,11 +1358,77 @@
 
     <muzzy:song rdf:about="http://dbpedia.org/resource/Cruel_Summer_(Taylor_Swift_song)">
         <rdfs:label>Cruel Summer</rdfs:label>
-        <muzzy:abstract>"Cruel Summer" is a song by American singer-songwriter Taylor Swift, from her seventh studio album, 
-            Lover (2019). Swift wrote the song with St. Vincent and producer Jack Antonoff. "Cruel Summer" combines synth-pop, 
-            industrial pop, and electropop; the production incorporates synthesizers and distorted vocals manipulated by robotic 
-            voice effects. Lyrically, it is about a narrator falling for a summer romance while experiencing intense, painful 
-            events in her personal life.</muzzy:abstract>
+        <muzzy:lyrics>(Yeah, yeah, yeah, yeah)
+                    Fever dream high in the quiet of the night
+                    You know that I caught it (Oh yeah, you're right, I want it)
+                    Bad, bad boy, shiny toy with a price
+                    You know that I bought it (Oh yeah, you're right, I want it)
+
+                    Killing me slow, out the window
+                    I'm always waiting for you to be waiting below
+                    Devils roll the dice, angels roll their eyes
+                    What doesn't kill me makes me want you more
+
+                    And it's new, the shape of your body
+                    It's blue, the feeling I've got
+                    And it's ooh, whoa oh
+                    It's a cruel summer
+                    It's cool, that's what I tell 'em
+                    No rules in breakable heaven
+                    But ooh, whoa oh
+                    It's a cruel summer
+                    With you
+
+                    Hang your head low in the glow of the vending machine
+                    I'm not dying (Oh yeah, you're right, I want it)
+                    We say that we'll just screw it up in these trying times
+                    We're not trying (Oh yeah, you're right, I want it)
+
+                    So cut the headlights, summer's a knife
+                    I'm always waiting for you just to cut to the bone
+                    Devils roll the dice, angels roll their eyes
+                    And if I bleed, you'll be the last to know
+
+                    Oh, it's new, the shape of your body
+                    It's blue, the feeling I've got
+                    And it's ooh, whoa oh
+                    It's a cruel summer
+                    It's cool, that's what I tell 'em
+                    No rules in breakable heaven
+                    But ooh, whoa oh
+                    It's a cruel summer
+                    With you
+
+                    I'm drunk in the back of the car
+                    And I cried like a baby coming home from the bar (Oh)
+                    Said, "I'm fine," but it wasn't true
+                    I don't wanna keep secrets just to keep you
+                    And I snuck in through the garden gate
+                    Every night that summer just to seal my fate (Oh)
+                    And I scream, "For whatever it's worth
+                    I love you, ain't that the worst thing you ever heard?"
+                    He looks up, grinning like a devil
+
+                    It's new, the shape of your body
+                    It's blue, the feeling I've got
+                    And it's ooh, whoa oh
+                    It's a cruel summer
+                    It's cool, that's what I tell 'em
+                    No rules in breakable heaven
+                    But ooh, whoa oh
+                    It's a cruel summer
+                    With you
+
+                    I'm drunk in the back of the car
+                    And I cried like a baby coming home from the bar (Oh)
+                    Said, "I'm fine," but it wasn't true
+                    I don't wanna keep secrets just to keep you
+                    And I snuck in through the garden gate
+                    Every night that summer just to seal my fate (Oh)
+                    And I scream, "For whatever it's worth
+                    I love you, ain't that the worst thing you ever heard?"
+                    (Yeah, yeah, yeah, yeah)
+        </muzzy:lyrics>
         <muzzy:artist>Taylor Swift</muzzy:artist>
         <muzzy:genre>Electropop, Industrial Pop, Synth-Pop</muzzy:genre>
         <muzzy:recordLabel>Republic Records</muzzy:recordLabel>
