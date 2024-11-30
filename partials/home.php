@@ -39,7 +39,6 @@
             <?php else : ?>
                 <?php $counter = 0; ?>
                 <?php foreach ($result as $data) : ?>
-<<<<<<< HEAD
                     <?php if ($counter >= 3) break; ?>
                         <a class="trick__content" style="height: 300px" href="?p=song&keyword=<?= $data->name ?>">
                             <img src="<?= $data->thumbnail ?>" style="height: 200px" alt="" class="trick__img">
@@ -49,15 +48,6 @@
                             </div>
                         </a>
                     <?php $counter++; ?>
-=======
-                    <a class="trick__content" href="?p=song&keyword=<?= $data->name ?>">
-                        <img src="<?= $data->thumbnail ?>" style="height: 150px" alt="" class="trick__img">
-                        <div class="trick__sub">
-                            <h3 class="trick__title"><?= $data->name ?></h3>
-                            <span class="trick__artist"><?= $data->artist ?></span>
-                        </div>
-                    </a>
->>>>>>> bb17e8ca88c1ae866d261a712a4b40bb116c9b32
                 <?php endforeach ?>
             <?php endif ?>
             
