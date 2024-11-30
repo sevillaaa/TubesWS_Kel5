@@ -6,11 +6,7 @@
                 rdfs:label ?name;
                 muzzy:artist ?artist;
                 muzzy:thumbnail ?thumbnail.
-<<<<<<< HEAD
-        }
-=======
-        }   LIMIT 6
->>>>>>> bb17e8ca88c1ae866d261a712a4b40bb116c9b32
+        } LIMIT 3
     ";
 
     $result = $sparqlJena->query($query);
