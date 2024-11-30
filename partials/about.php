@@ -21,7 +21,7 @@
                 <div class="trick__container container grid">
 
                     <div class="trick__content" style="height: 300px">
-                        <img src="./assets/img/nav1.jpg" alt="" class="trick__img">
+                        <img src="./assets/img/gabriel.jpg" alt="" class="trick__img">
                         <div class="trick__sub">
                         <h3 class="trick__title">Gabriel Ido</h3>
                         <span class="trick__subtitle">231402115</span>
@@ -37,7 +37,7 @@
                     </div>
 
                     <div class="trick__content" style="height: 300px">
-                        <img src="./assets/img/nav1.jpg" alt="" class="trick__img">
+                        <img src="./assets/img/nazwa.jpg" alt="" class="trick__img">
                         <div class="trick__sub">
                         <h3 class="trick__title">Nazwa Nabila</h3>
                         <span class="trick__subtitle">231402098</span>

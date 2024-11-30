@@ -20,11 +20,11 @@
 
     $result = $sparqlJena->query($query)->current();
 
-    // $lyrics = nl2br(htmlspecialchars($result->lyrics));
-    // $lyrics = nl2br($result->lyrics);
-    echo "<pre>";
-    print_r($result->lyrics);
-    echo "</pre>";
+    if ($result) {
+        $songPath = "assets/song/" . str_replace(' ', '_', $result->name) . ".mp3";
+    } else {
+        die('Song not found!');
+    }
 
 ?>
 
@@ -34,11 +34,11 @@
 
 <!--==================== SONG ====================-->
 <section class="section discount">
-<div class="discount__container container bd-grid">
-    <div>
+<div class="discount__container container ">
+    <div class="music__containerr">
     <div class="music__container">
         <div class="player-img">
-            <img src="./assets/img/mltr.jpg" class="active" id="cover">
+            <img src="<?= $result->thumbnail ?>" class="active" id="cover">
         </div>
 
         <h2 id="" class="music__h2"><?= $result->name ?></h2>
@@ -64,37 +64,35 @@
     <table class="song__info">
         <tr>
             <td>Album</td>
+            <td> : </td>
             <td><?= $result->album ?></td>
         </tr>
         <tr>
             <td>Release Date</td>
+            <td> : </td>
             <td><?= $result->date ?></td>
         </tr>
         <tr>
             <td>Producer</td>
+            <td> : </td>
             <td><?= $result->producer ?></td>
         </tr>
         <tr>
             <td>Label</td>
+            <td> : </td>
             <td><?= $result->record ?></td>
         </tr>
         <tr>
             <td>Writer</td>
+            <td> : </td>
             <td><?= $result->writer ?></td>
         </tr>
     </table>
-        <!-- <h2 class="song__lyrics">
-            Album : Michael Learns to Rock <br>
-            Release Date : 1991-11-11 <br>
-            Producers : Oli Poulsen & Jens Hofman <br>
-            Label : Impact Medley Records <br>
-            Writer : Jascha Richter <br>
-        </h2> -->
     </div>
     </div>
     
     <h2 class="song__lyrics">
-        <?= $result->lyrics ?>
+    <?= nl2br(htmlspecialchars($result->lyrics)) ?> <?= $result->lyrics ?>
     </h2>
 </div>
 </section>

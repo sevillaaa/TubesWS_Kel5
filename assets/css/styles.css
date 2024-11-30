@@ -23,6 +23,7 @@
   --container-color: linear-gradient(136deg, hsl(62, 33%, 82%) 0%, hsl(83, 16%, 55%) 100%);
   --content-color: linear-gradient(136deg, hsl(60, 24%, 78%) 0%, hsl(84, 13%, 50%) 100%);
   --inner-color: linear-gradient(136deg, hsl(63, 36%, 89%) 0%, hsl(84, 24%, 69%) 100%);
+  --inner-color2: linear-gradient(136deg, hsl(63, 36%, 89%) 0%, hsl(84, 29%, 83%) 100%);
 
   /*Red gradient*/
   /* --body-color: linear-gradient(90deg, hsl(360, 28%, 40%) 0%, hsl(18, 28%, 40%) 100%);
@@ -436,6 +437,17 @@ button{
   /* text-transform: uppercase; */
   color: var(--title-color);
   margin-bottom: var(--mb-1);
+  max-width: 700px;
+  margin: 20px auto;
+  padding: 15px;
+  border-radius: 8px;
+  line-height: 1.6;
+  font-family: 'Arial', sans-serif;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+  text-align: center;
+  background-color: var(--inner-color2);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .song__info{
@@ -1769,6 +1781,10 @@ button{
   box-shadow: 0 15px 30px rgba(0, 0, 0, 0.6);
 }
 
+.music__containerr{
+  justify-items: center;
+}
+
 .player-img{
   width: 300px;
   height: 300px;
@@ -1830,7 +1846,7 @@ button{
 
 .music-duration{
   position: relative;
-  top: -25px;
+  top: -35px;
   display: flex;
   justify-content: space-between;
   color: var(--title-color);

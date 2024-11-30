@@ -13,4 +13,4 @@ require "./vendor/easyrdf/easyrdf/lib/GraphStore.php";
 \EasyRdf\RdfNamespace::set('muzzy', 'https://example.org/schema/muzzy');
 
 $sparqlDbPedia = new \EasyRdf\Sparql\Client('http://dbpedia.org/sparql');
-$sparqlJena = new \EasyRdf\Sparql\Client('http://127.0.0.1:3030/muzzy/sparql');
+$sparqlJena = new \EasyRdf\Sparql\Client('http://127.0.0.1:3030/muzzy2/sparql');
