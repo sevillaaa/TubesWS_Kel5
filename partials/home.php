@@ -7,7 +7,7 @@
                 rdfs:label ?name;
                 muzzy:artist ?artist;
                 muzzy:thumbnail ?thumbnail.
-        }   FILTER(?name = '$keyword') .
+        }
     ";
 
     $result = $sparqlJena->query($query);
@@ -34,14 +34,17 @@
             <?php if (!isset($result->current()->name)) : ?>
                 <div class="not-found-2">Data is not found!</div>
             <?php else : ?>
+                <?php $counter = 0; ?>
                 <?php foreach ($result as $data) : ?>
-                    <a class="trick__content" href="?p=song&keyword=<?= $data->name ?>">
-                        <img src="<?= $data->thumbnail ?>" alt="" class="trick__img">
-                        <div class="trick__sub">
-                            <h3 class="trick__title"><?= $data->name ?></h3>
-                            <span class="trick__artist"><?= $data->artist ?></span>
-                        </div>
-                    </a>
+                    <?php if ($counter >= 3) break; ?>
+                        <a class="trick__content" style="height: 300px" href="?p=song&keyword=<?= $data->name ?>">
+                            <img src="<?= $data->thumbnail ?>" style="height: 200px" alt="" class="trick__img">
+                            <div class="trick__sub">
+                                <h3 class="trick__title"><?= $data->name ?></h3>
+                                <span class="trick__artist"><?= $data->artist ?></span>
+                            </div>
+                        </a>
+                    <?php $counter++; ?>
                 <?php endforeach ?>
             <?php endif ?>
             

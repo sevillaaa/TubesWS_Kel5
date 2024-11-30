@@ -20,7 +20,7 @@
 
                 <div class="trick__container container grid">
 
-                    <div class="trick__content">
+                    <div class="trick__content" style="height: 300px">
                         <img src="./assets/img/nav1.jpg" alt="" class="trick__img">
                         <div class="trick__sub">
                         <h3 class="trick__title">Gabriel Ido</h3>
@@ -28,15 +28,15 @@
                         </div>
                     </div>
 
-                    <div class="trick__content">
-                        <img src="./assets/img/nav1.jpg" alt="" class="trick__img">
+                    <div class="trick__content" style="height: 300px">
+                        <img src="./assets/img/angel.jpg" alt="" class="trick__img">
                         <div class="trick__sub">
                         <h3 class="trick__title">Angel Tobing</h3>
                         <span class="trick__subtitle">231402083</span>
                         </div>
                     </div>
 
-                    <div class="trick__content">
+                    <div class="trick__content" style="height: 300px">
                         <img src="./assets/img/nav1.jpg" alt="" class="trick__img">
                         <div class="trick__sub">
                         <h3 class="trick__title">Nazwa Nabila</h3>
@@ -44,7 +44,7 @@
                         </div>
                     </div>
 
-                    <div class="trick__content">
+                    <div class="trick__content" style="height: 300px">
                         <img src="./assets/img/nav1.jpg" alt="" class="trick__img">
                         <div class="trick__sub">
                         <h3 class="trick__title">Sevilla Claudia</h3>
@@ -52,7 +52,7 @@
                         </div>
                     </div>
 
-                    <div class="trick__content">
+                    <div class="trick__content" style="height: 300px">
                         <img src="./assets/img/nav1.jpg" alt="" class="trick__img">
                         <div class="trick__sub">
                         <h3 class="trick__title">Crosby Nainggolan</h3>
@@ -60,7 +60,7 @@
                         </div>
                     </div>
 
-                    <div class="trick__content">
+                    <div class="trick__content" style="height: 300px">
                         <img src="./assets/img/nav1.jpg" alt="" class="trick__img">
                         <div class="trick__sub">
                         <h3 class="trick__title">Victor Rolas</h3>
@@ -68,7 +68,7 @@
                         </div>
                     </div>
 
-                    <div class="trick__content">
+                    <div class="trick__content" style="height: 300px">
                         <img src="./assets/img/nav1.jpg" alt="" class="trick__img">
                         <div class="trick__sub">
                         <h3 class="trick__title">Geri Nugraha</h3>

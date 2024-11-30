@@ -438,6 +438,14 @@ button{
   margin-bottom: var(--mb-1);
 }
 
+.song__info{
+  white-space: pre-wrap;
+  font-size: var(--normal-font-size);
+  /* text-transform: uppercase; */
+  color: var(--title-color);
+  margin-bottom: var(--mb-1);
+}
+
 .home__pic{
   height: 350px;
 }
@@ -629,7 +637,7 @@ button{
 .trick__content{
   position: relative;
   width: 200px;
-  height: 250px;
+  height: 300px;
   background: var(--content-color);
   border-radius: 1rem;
   justify-self: center;
@@ -654,6 +662,7 @@ button{
 .trick__sub{
   text-align: left;
   padding-left: 25px;
+  padding-right: 25px;
 }
 
 .trick__subtitle,

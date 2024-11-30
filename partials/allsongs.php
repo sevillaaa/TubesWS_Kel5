@@ -64,8 +64,8 @@ if (isset($_POST["keyword"])) {
             <div class="not-found-2">Data is not found!</div>
         <?php else : ?>
             <?php foreach ($result as $data) : ?>
-                <a class="trick__content" href="?p=song&keyword=<?= $data->name ?>">
-                    <img src="<?= $data->thumbnail ?>" style="height: 150px" alt="" class="trick__img">
+                <a class="trick__content" style="height: 300px" href="?p=song&keyword=<?= $data->name ?>">
+                    <img src="<?= $data->thumbnail ?>" style="height: 200px" alt="" class="trick__img">
                     <div class="trick__sub">
                         <h3 class="trick__title"><?= $data->name ?></h3>
                         <span class="trick__artist"><?= $data->artist ?></span>

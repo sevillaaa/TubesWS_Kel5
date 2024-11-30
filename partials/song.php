@@ -1,25 +1,27 @@
 <?php
+    $keyword = $_GET['keyword'];
 
-$keyword = $_POST["keyword"];
+    $query = "
+        SELECT DISTINCT ?name ?artist ?lyrics ?genre ?record ?thumbnail ?date ?writer ?album ?producer WHERE {
+            ?d a muzzy:song;
+                rdfs:label ?name;
+                muzzy:artist ?artist;
+                muzzy:lyrics ?lyrics;
+                muzzy:genre ?genre;
+                muzzy:recordLabel ?record;
+                muzzy:thumbnail ?thumbnail;
+                muzzy:released ?date;
+                muzzy:writer ?writer;
+                muzzy:album ?album;
+                muzzy:producer ?producer .
+            FILTER(?name = '$keyword') .
+        }
+    ";
 
-$query = "
-    SELECT DISTINCT ?name ?artist ?lyrics ?genre ?record ?thumbnail ?date ?writer ?album ?producer WHERE {
-        ?d a muzzy:song;
-            rdfs:label ?name;
-            muzzy:artist ?artist;
-            muzzy:lyrics ?lyrics;
-            muzzy:genre ?genre;
-            muzzy:recordLabel ?record;
-            muzzy:thumbnail ?thumbnail;
-            muzzy:released ?date;
-            muzzy:writer ?writer;
-            muzzy:album ?album;
-            muzzy:producer ?producer .
-        FILTER(?name = '$keyword') .
-    }
-";
+    $result = $sparqlJena->query($query)->current();
 
-$result = $sparqlJena->query($query)->current();
+    // $lyrics = nl2br(htmlspecialchars($result->lyrics));
+    $lyrics = nl2br($result->lyrics);
 
 ?>
 
@@ -56,26 +58,26 @@ $result = $sparqlJena->query($query)->current();
     </div>
 
     <div class="song__data">
-    <table class="song__lyrics">
+    <table class="song__info">
         <tr>
             <td>Album</td>
-            <td>: <?= $result->island ?></td>
+            <td><?= $result->album ?></td>
         </tr>
         <tr>
             <td>Release Date</td>
-            <td>: <?= $result->date ?></td>
+            <td><?= $result->date ?></td>
         </tr>
         <tr>
             <td>Producer</td>
-            <td>: <?= $result->producer ?></td>
+            <td><?= $result->producer ?></td>
         </tr>
         <tr>
             <td>Label</td>
-            <td>: <?= $result->record ?></td>
+            <td><?= $result->record ?></td>
         </tr>
         <tr>
             <td>Writer</td>
-            <td>: <?= $result->writer ?></td>
+            <td><?= $result->writer ?></td>
         </tr>
     </table>
         <!-- <h2 class="song__lyrics">
@@ -90,45 +92,6 @@ $result = $sparqlJena->query($query)->current();
     
     <h2 class="song__lyrics">
         <?= $result->lyrics ?>
-        <!-- He takes you out and he takes you up <br>
-        'Cause he can show you so much <br>
-        I go to bed and tomorrow again <br>
-        There's a lot of work to be done <br>
-        He gives you gold and he will promise you <br>
-        The whole world will be yours <br>
-        I just can't tell you I love you so <br>
-        Even though my odds are low <br>
-        I'm not an actor, I'm not a star <br>
-        And I don't even have my own car <br>
-        But I'm hoping so much you'll stay <br>
-        That you will love me anyway <br>
-        The dirty games in the name of jokes <br>
-        This is the world he knows <br>
-        Watching the stars satisfies my soul <br>
-        Thinking of him makes me feel so cold <br>
-        The fancy cars and the restaurants <br>
-        You're just so fond of the man <br>
-        Sometimes I wonder if you are blind <br>
-        Can't you see he's got dirt on his mind <br>
-        I'm not an actor, I'm not a star <br>
-        And I don't even have my own car <br>
-        But I'm hoping so much you'll stay <br>
-        That you will love me anyway (anyway) <br>
-        I'm not an actor, I'm not a star <br>
-        And I don't even have my own car <br>
-        But I'm hoping so much you'll stay <br>
-        That you will love me anyway <br>
-        I'm not an actor, I'm not a star <br>
-        And I don't even have my own car <br>
-        But I'm hoping so much you'll stay <br>
-        That you will love me anyway (anyway) <br>
-        I'm not an actor, I'm not a star <br>
-        And I don't even have my own car <br>
-        But I'm hoping so much you'll stay <br>
-        That you will love me anyway <br>
-        I'm not an actor, I'm not a star <br>
-        And I don't even have my own car <br>
-        But I'm hoping so much you'll stay <br> -->
     </h2>
 </div>
 </section>
