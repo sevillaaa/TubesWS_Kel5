@@ -759,8 +759,10 @@
         <muzzy:artist>Kaye Ballard</muzzy:artist>
         <muzzy:genre>Jazz</muzzy:genre>
         <muzzy:recordLabel>Decca Records</muzzy:recordLabel>
+        <muzzy:producer>Kaye Ballard</muzzy:producer>
         <muzzy:released>April 1954</muzzy:released>
-        <muzzy:writer>Bart_Howard</muzzy:writer>
+        <muzzy:writer>Bart Howard</muzzy:writer>
+        <muzzy:album>In Other Words (Fly Me To The Moon)</muzzy:album>
         <muzzy:thumbnail>https://upload.wikimedia.org/wikipedia/commons/b/bd/Kaye_Ballard_In_Other_Words_Decca_Records_Inc._Catalog_Number_9_29114_Photographed_15_April_2014.JPG</muzzy:thumbnail>
     </muzzy:song>
 
@@ -1081,6 +1083,7 @@
             That you will love me anyway
         </muzzy:lyrics>
         <muzzy:artist>Michael Learns to Rock</muzzy:artist>
+        <muzzy:genre>Pop Rock</muzzy:genre>
         <muzzy:recordLabel>Impact Records</muzzy:recordLabel>
         <muzzy:producer>Oli Poulsen, Jens Hofman</muzzy:producer>
         <muzzy:released>1991-11-11</muzzy:released>
@@ -1143,6 +1146,7 @@
         </muzzy:lyrics>
         <muzzy:artist>One Direction</muzzy:artist>
         <muzzy:genre>Folktronica</muzzy:genre>
+        <muzzy:recordLabel>Syco Music, Columbia Records</muzzy:recordLabel>
         <muzzy:producer>John Ryan, Julian Bunetta</muzzy:producer>
         <muzzy:released>2013-10-28</muzzy:released>
         <muzzy:writer>Zayn Malik, Liam Payne, Jamie Scott, Louis Tomlinson, Niall Horan, Harry Styles, Tiziano Ferro, John Ryan</muzzy:writer>
