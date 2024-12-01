@@ -31,6 +31,7 @@
 
 ### Environment :
 <p>Beberapa syarat environment untuk menjalankan aplikasi ini:</p>
+
 - PHP : Versi 8 (8.1.17)
 - SPARQL Endpoint : Apache Jena Fuseki
 - Library : EasyRdf (via Composer)
