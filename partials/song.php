@@ -63,6 +63,11 @@
     <div class="song__data">
     <table class="song__info">
         <tr>
+            <td>Genre</td>
+            <td> : </td>
+            <td><?= $result->genre ?></td>
+        </tr>
+        <tr>
             <td>Album</td>
             <td> : </td>
             <td><?= $result->album ?></td>
