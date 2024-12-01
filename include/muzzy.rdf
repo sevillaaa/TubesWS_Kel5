@@ -73,7 +73,7 @@
     </muzzy:song>
 
     <muzzy:song rdf:about="http://dbpedia.org/resource/Don't_Panic_(Coldplay_song)">
-        <rdfs:label>Don't Panic</rdfs:label>
+        <rdfs:label>Dont Panic</rdfs:label>
         <muzzy:lyrics xml:space="preserve">
             Bones, sinking like stones
             All that we fought for
