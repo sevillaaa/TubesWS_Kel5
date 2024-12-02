@@ -3,7 +3,7 @@
 
     $query = "
         SELECT DISTINCT ?name ?artist ?lyrics ?genre ?record ?thumbnail ?date ?writer ?album ?producer WHERE {
-            ?d a muzzy:song;
+            ?m a muzzy:song;
                 rdfs:label ?name;
                 muzzy:artist ?artist;
                 muzzy:lyrics ?lyrics;
@@ -62,6 +62,11 @@
 
     <div class="song__data">
     <table class="song__info">
+        <tr>
+            <td>Genre</td>
+            <td> : </td>
+            <td><?= $result->genre ?></td>
+        </tr>
         <tr>
             <td>Album</td>
             <td> : </td>

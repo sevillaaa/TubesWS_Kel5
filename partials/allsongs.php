@@ -4,9 +4,10 @@ if (isset($_POST["keyword"])) {
 
     $query = "
         SELECT DISTINCT ?name ?artist ?thumbnail WHERE {
-            ?d a muzzy:song;
+            ?m a muzzy:song;
                 rdfs:label ?name;
                 muzzy:artist ?artist;
+                muzzy:lyrics ?lyrics;
                 muzzy:genre ?genre;
                 muzzy:recordLabel ?record;
                 muzzy:thumbnail ?thumbnail;
@@ -16,6 +17,7 @@ if (isset($_POST["keyword"])) {
                 muzzy:producer ?producer .
             FILTER ( REGEX (?name, '$keyword', 'i') ||
                     REGEX (?artist, '$keyword', 'i') ||
+                    REGEX (?lyrics, '$keyword', 'i') ||
                     REGEX (?genre, '$keyword', 'i') ||
                     REGEX (?record, '$keyword', 'i') ||
                     REGEX (?date, '$keyword', 'i') ||
@@ -30,7 +32,7 @@ if (isset($_POST["keyword"])) {
 } else {
     $query = "
         SELECT DISTINCT ?name ?artist ?thumbnail WHERE {
-            ?d a muzzy:song;
+            ?m a muzzy:song;
                 rdfs:label ?name;
                 muzzy:artist ?artist;
                 muzzy:thumbnail ?thumbnail.

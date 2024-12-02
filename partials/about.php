@@ -45,7 +45,7 @@
                     </div>
 
                     <div class="trick__content" style="height: 300px">
-                        <img src="./assets/img/nav1.jpg" alt="" class="trick__img">
+                        <img src="./assets/img/sevilla.jpg" alt="" class="trick__img">
                         <div class="trick__sub">
                         <h3 class="trick__title">Sevilla Claudia</h3>
                         <span class="trick__subtitle">231402058</span>
@@ -53,7 +53,7 @@
                     </div>
 
                     <div class="trick__content" style="height: 300px">
-                        <img src="./assets/img/nav1.jpg" alt="" class="trick__img">
+                        <img src="./assets/img/crosby.jpg" alt="" class="trick__img">
                         <div class="trick__sub">
                         <h3 class="trick__title">Crosby Nainggolan</h3>
                         <span class="trick__subtitle">231402125</span>
@@ -61,7 +61,7 @@
                     </div>
 
                     <div class="trick__content" style="height: 300px">
-                        <img src="./assets/img/nav1.jpg" alt="" class="trick__img">
+                        <img src="./assets/img/victor.jpg" alt="" class="trick__img">
                         <div class="trick__sub">
                         <h3 class="trick__title">Victor Rolas</h3>
                         <span class="trick__subtitle">231402073</span>
@@ -69,7 +69,7 @@
                     </div>
 
                     <div class="trick__content" style="height: 300px">
-                        <img src="./assets/img/nav1.jpg" alt="" class="trick__img">
+                        <img src="./assets/img/geri.jpg" alt="" class="trick__img">
                         <div class="trick__sub">
                         <h3 class="trick__title">Geri Nugraha</h3>
                         <span class="trick__subtitle">231402019</span>
