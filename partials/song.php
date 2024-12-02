@@ -3,7 +3,7 @@
 
     $query = "
         SELECT DISTINCT ?name ?artist ?lyrics ?genre ?record ?thumbnail ?date ?writer ?album ?producer WHERE {
-            ?d a muzzy:song;
+            ?m a muzzy:song;
                 rdfs:label ?name;
                 muzzy:artist ?artist;
                 muzzy:lyrics ?lyrics;
